@@ -1,0 +1,375 @@
+{
+  "provider": "Google (Gemini API)",
+  "started_at": "2026-09-12T23:26:56.842263+00:00",
+  "requests_processed": 250,
+  "totals": {
+    "calls": 35,
+    "failed_calls": 7,
+    "input_tokens": 76400,
+    "output_tokens": 4540,
+    "total_tokens": 80940,
+    "cost_usd": 0.0237302,
+    "requests_processed": 250,
+    "avg_calls_per_request": 0.14,
+    "avg_tokens_per_request": 323.76,
+    "avg_cost_per_request_usd": 9.49208e-05
+  },
+  "per_model": {
+    "gemini-3-flash-preview": {
+      "calls": 19,
+      "failed_calls": 7,
+      "input_tokens": 51127,
+      "output_tokens": 1928,
+      "cached_tokens": 20270,
+      "cost_usd": 0.020158099999999998,
+      "rate_in_usd_per_mtok": 0.3,
+      "rate_out_usd_per_mtok": 2.5,
+      "rate_source": "configured default estimate (not verified against the live price list)"
+    },
+    "gemini-3.1-flash-lite": {
+      "calls": 16,
+      "failed_calls": 0,
+      "input_tokens": 25273,
+      "output_tokens": 2612,
+      "cached_tokens": 0,
+      "cost_usd": 0.0035721,
+      "rate_in_usd_per_mtok": 0.1,
+      "rate_out_usd_per_mtok": 0.4,
+      "rate_source": "configured default estimate (not verified against the live price list)"
+    }
+  },
+  "per_purpose": {
+    "message_amendments_batched": {
+      "calls": 12,
+      "input_tokens": 52438,
+      "output_tokens": 3079
+    },
+    "message_amendments": {
+      "calls": 21,
+      "input_tokens": 20905,
+      "output_tokens": 1356
+    },
+    "vision_amount_extraction": {
+      "calls": 2,
+      "input_tokens": 3057,
+      "output_tokens": 105
+    }
+  },
+  "calls": [
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 8667,
+      "output_tokens": 317,
+      "cached_tokens": 4054,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ValueError: no parseable JSON in response: '{\\n  \"users\": {\\n    \"user_224\": {\\n      \"amendments\": [],\\n      \"injection_attempts\": []\\n    },\\n    \"user_225\": {\\n      \"amendments\": [\\n        {\\n          \"kind\": \"expense_change\",\\n          \"category'"
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 8667,
+      "output_tokens": 317,
+      "cached_tokens": 4054,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ValueError: no parseable JSON in response: '{\\n  \"users\": {\\n    \"user_224\": {\\n      \"amendments\": [],\\n      \"injection_attempts\": []\\n    },\\n    \"user_225\": {\\n      \"amendments\": [\\n        {\\n          \"kind\": \"expense_change\",\\n          \"category'"
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 8667,
+      "output_tokens": 315,
+      "cached_tokens": 4054,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ValueError: no parseable JSON in response: '{\\n  \"users\": {\\n    \"user_224\": {\\n      \"amendments\": [],\\n      \"injection_attempts\": []\\n    },\\n    \"user_225\": {\\n      \"amendments\": [\\n        {\\n          \"kind\": \"expense_change\",\\n          \"category'"
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 8667,
+      "output_tokens": 317,
+      "cached_tokens": 4054,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ValueError: no parseable JSON in response: '{\\n  \"users\": {\\n    \"user_224\": {\\n      \"amendments\": [],\\n      \"injection_attempts\": []\\n    },\\n    \"user_225\": {\\n      \"amendments\": [\\n        {\\n          \"kind\": \"expense_change\",\\n          \"category'"
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 8667,
+      "output_tokens": 315,
+      "cached_tokens": 4054,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ValueError: no parseable JSON in response: '{\\n  \"users\": {\\n    \"user_224\": {\\n      \"amendments\": [],\\n      \"injection_attempts\": []\\n    },\\n    \"user_225\": {\\n      \"amendments\": [\\n        {\\n          \"kind\": \"expense_change\",\\n          \"category'"
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1153,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1122,
+      "output_tokens": 143,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1097,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1094,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1132,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1084,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 1110,
+      "output_tokens": 109,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ValueError: no parseable JSON in response: '{\\n  \"amendments\": [\\n    {\\n      \"kind\": \"income_change\",\\n      \"category\": \"salary\",\\n      \"new_amount\": 2827,\\n      \"change_pct\": null,\\n      \"currency\": \"EUR\",\\n      \"effective_date\": \"2025-08-05\",\\n'"
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "purpose": "message_amendments",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cached_tokens": 0,
+      "ok": false,
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev"
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1110,
+      "output_tokens": 144,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1112,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1098,
+      "output_tokens": 171,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1037,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1081,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1115,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1105,
+      "output_tokens": 140,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1080,
+      "output_tokens": 144,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1079,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1059,
+      "output_tokens": 140,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1078,
+      "output_tokens": 156,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments",
+      "input_tokens": 1159,
+      "output_tokens": 19,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 4378,
+      "output_tokens": 877,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "message_amendments_batched",
+      "input_tokens": 4725,
+      "output_tokens": 621,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "vision_amount_extraction",
+      "input_tokens": 1537,
+      "output_tokens": 52,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "purpose": "vision_amount_extraction",
+      "input_tokens": 1520,
+      "output_tokens": 53,
+      "cached_tokens": 0,
+      "ok": true,
+      "error": null
+    }
+  ]
+}

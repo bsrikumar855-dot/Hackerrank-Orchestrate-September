@@ -1,0 +1,480 @@
+{
+  "nonrecurring_spending_targets": [],
+  "greedy_misses": [],
+  "later_full_with_changes": [],
+  "settlement_date_differences": [
+    {
+      "event": "event_98",
+      "user": "user_01",
+      "event_date": "2024-01-25",
+      "settlement": "2024-01-26",
+      "days": 1
+    },
+    {
+      "event": "event_99",
+      "user": "user_01",
+      "event_date": "2024-01-28",
+      "settlement": "2024-01-29",
+      "days": 1
+    },
+    {
+      "event": "event_101",
+      "user": "user_01",
+      "event_date": "2024-02-16",
+      "settlement": "2024-02-17",
+      "days": 1
+    },
+    {
+      "event": "event_578",
+      "user": "user_07",
+      "event_date": "2024-08-15",
+      "settlement": "2024-08-23",
+      "days": 8
+    },
+    {
+      "event": "event_1544",
+      "user": "user_17",
+      "event_date": "2026-02-25",
+      "settlement": "2026-02-26",
+      "days": 1
+    },
+    {
+      "event": "event_1784",
+      "user": "user_20",
+      "event_date": "2026-01-14",
+      "settlement": "2026-01-15",
+      "days": 1
+    },
+    {
+      "event": "event_2165",
+      "user": "user_24",
+      "event_date": "2025-12-27",
+      "settlement": "2025-12-28",
+      "days": 1
+    },
+    {
+      "event": "event_2360",
+      "user": "user_26",
+      "event_date": "2025-06-26",
+      "settlement": "2025-06-27",
+      "days": 1
+    },
+    {
+      "event": "event_2361",
+      "user": "user_26",
+      "event_date": "2025-06-29",
+      "settlement": "2025-06-30",
+      "days": 1
+    },
+    {
+      "event": "event_2363",
+      "user": "user_26",
+      "event_date": "2025-07-18",
+      "settlement": "2025-07-19",
+      "days": 1
+    },
+    {
+      "event": "event_3229",
+      "user": "user_35",
+      "event_date": "2025-10-06",
+      "settlement": "2025-10-07",
+      "days": 1
+    },
+    {
+      "event": "event_3491",
+      "user": "user_38",
+      "event_date": "2025-07-30",
+      "settlement": "2025-07-31",
+      "days": 1
+    },
+    {
+      "event": "event_4993",
+      "user": "user_53",
+      "event_date": "2025-10-14",
+      "settlement": "2025-10-15",
+      "days": 1
+    },
+    {
+      "event": "event_6290",
+      "user": "user_67",
+      "event_date": "2024-08-20",
+      "settlement": "2024-08-21",
+      "days": 1
+    },
+    {
+      "event": "event_6324",
+      "user": "user_68",
+      "event_date": "2025-01-15",
+      "settlement": "2025-01-23",
+      "days": 8
+    },
+    {
+      "event": "event_6857",
+      "user": "user_73",
+      "event_date": "2022-12-13",
+      "settlement": "2022-12-14",
+      "days": 1
+    },
+    {
+      "event": "event_6858",
+      "user": "user_73",
+      "event_date": "2022-12-16",
+      "settlement": "2022-12-17",
+      "days": 1
+    },
+    {
+      "event": "event_7185",
+      "user": "user_77",
+      "event_date": "2025-10-12",
+      "settlement": "2025-10-13",
+      "days": 1
+    },
+    {
+      "event": "event_7306",
+      "user": "user_78",
+      "event_date": "2025-09-24",
+      "settlement": "2025-09-25",
+      "days": 1
+    },
+    {
+      "event": "event_8077",
+      "user": "user_86",
+      "event_date": "2025-07-15",
+      "settlement": "2025-07-23",
+      "days": 8
+    },
+    {
+      "event": "event_8836",
+      "user": "user_95",
+      "event_date": "2025-04-15",
+      "settlement": "2025-04-23",
+      "days": 8
+    },
+    {
+      "event": "event_9420",
+      "user": "user_101",
+      "event_date": "2025-10-26",
+      "settlement": "2025-10-27",
+      "days": 1
+    },
+    {
+      "event": "event_10043",
+      "user": "user_108",
+      "event_date": "2026-06-21",
+      "settlement": "2026-06-22",
+      "days": 1
+    },
+    {
+      "event": "event_10699",
+      "user": "user_115",
+      "event_date": "2024-08-29",
+      "settlement": "2024-08-30",
+      "days": 1
+    },
+    {
+      "event": "event_10802",
+      "user": "user_116",
+      "event_date": "2025-01-30",
+      "settlement": "2025-01-31",
+      "days": 1
+    },
+    {
+      "event": "event_11126",
+      "user": "user_120",
+      "event_date": "2026-02-27",
+      "settlement": "2026-02-28",
+      "days": 1
+    },
+    {
+      "event": "event_11127",
+      "user": "user_120",
+      "event_date": "2026-03-02",
+      "settlement": "2026-03-03",
+      "days": 1
+    },
+    {
+      "event": "event_11129",
+      "user": "user_120",
+      "event_date": "2026-03-29",
+      "settlement": "2026-03-30",
+      "days": 1
+    },
+    {
+      "event": "event_11925",
+      "user": "user_129",
+      "event_date": "2026-03-27",
+      "settlement": "2026-03-28",
+      "days": 1
+    },
+    {
+      "event": "event_12058",
+      "user": "user_131",
+      "event_date": "2025-04-15",
+      "settlement": "2025-04-23",
+      "days": 8
+    },
+    {
+      "event": "event_12382",
+      "user": "user_134",
+      "event_date": "2025-07-27",
+      "settlement": "2025-07-28",
+      "days": 1
+    },
+    {
+      "event": "event_12708",
+      "user": "user_138",
+      "event_date": "2026-03-26",
+      "settlement": "2026-03-27",
+      "days": 1
+    },
+    {
+      "event": "event_13032",
+      "user": "user_141",
+      "event_date": "2025-12-26",
+      "settlement": "2025-12-27",
+      "days": 1
+    },
+    {
+      "event": "event_13207",
+      "user": "user_143",
+      "event_date": "2025-04-29",
+      "settlement": "2025-04-30",
+      "days": 1
+    },
+    {
+      "event": "event_13492",
+      "user": "user_146",
+      "event_date": "2025-07-30",
+      "settlement": "2025-07-31",
+      "days": 1
+    },
+    {
+      "event": "event_13663",
+      "user": "user_148",
+      "event_date": "2024-05-30",
+      "settlement": "2024-05-31",
+      "days": 1
+    },
+    {
+      "event": "event_13744",
+      "user": "user_149",
+      "event_date": "2025-10-11",
+      "settlement": "2025-10-12",
+      "days": 1
+    },
+    {
+      "event": "event_13747",
+      "user": "user_149",
+      "event_date": "2025-10-19",
+      "settlement": "2025-10-20",
+      "days": 1
+    },
+    {
+      "event": "event_14026",
+      "user": "user_152",
+      "event_date": "2025-02-01",
+      "settlement": "2025-02-02",
+      "days": 1
+    },
+    {
+      "event": "event_14398",
+      "user": "user_156",
+      "event_date": "2026-03-22",
+      "settlement": "2026-03-23",
+      "days": 1
+    },
+    {
+      "event": "event_15279",
+      "user": "user_167",
+      "event_date": "2025-04-15",
+      "settlement": "2025-04-23",
+      "days": 8
+    },
+    {
+      "event": "event_15326",
+      "user": "user_167",
+      "event_date": "2025-03-28",
+      "settlement": "2025-03-29",
+      "days": 1
+    },
+    {
+      "event": "event_15327",
+      "user": "user_167",
+      "event_date": "2025-03-31",
+      "settlement": "2025-04-01",
+      "days": 1
+    },
+    {
+      "event": "event_17401",
+      "user": "user_188",
+      "event_date": "2025-02-03",
+      "settlement": "2025-02-04",
+      "days": 1
+    },
+    {
+      "event": "event_17579",
+      "user": "user_190",
+      "event_date": "2024-11-20",
+      "settlement": "2024-11-21",
+      "days": 1
+    },
+    {
+      "event": "event_17661",
+      "user": "user_191",
+      "event_date": "2025-04-09",
+      "settlement": "2025-04-10",
+      "days": 1
+    },
+    {
+      "event": "event_17870",
+      "user": "user_194",
+      "event_date": "2025-07-15",
+      "settlement": "2025-07-23",
+      "days": 8
+    },
+    {
+      "event": "event_18268",
+      "user": "user_198",
+      "event_date": "2026-06-25",
+      "settlement": "2026-06-26",
+      "days": 1
+    },
+    {
+      "event": "event_19333",
+      "user": "user_210",
+      "event_date": "2026-03-25",
+      "settlement": "2026-03-26",
+      "days": 1
+    },
+    {
+      "event": "event_19466",
+      "user": "user_212",
+      "event_date": "2025-01-15",
+      "settlement": "2025-01-23",
+      "days": 8
+    },
+    {
+      "event": "event_19752",
+      "user": "user_214",
+      "event_date": "2024-10-27",
+      "settlement": "2024-10-28",
+      "days": 1
+    },
+    {
+      "event": "event_19753",
+      "user": "user_214",
+      "event_date": "2024-10-30",
+      "settlement": "2024-10-31",
+      "days": 1
+    },
+    {
+      "event": "event_20129",
+      "user": "user_218",
+      "event_date": "2025-08-03",
+      "settlement": "2025-08-04",
+      "days": 1
+    },
+    {
+      "event": "event_20378",
+      "user": "user_221",
+      "event_date": "2025-10-10",
+      "settlement": "2025-10-11",
+      "days": 1
+    },
+    {
+      "event": "event_20615",
+      "user": "user_224",
+      "event_date": "2025-01-31",
+      "settlement": "2025-02-01",
+      "days": 1
+    },
+    {
+      "event": "event_21307",
+      "user": "user_231",
+      "event_date": "2025-12-18",
+      "settlement": "2025-12-19",
+      "days": 1
+    },
+    {
+      "event": "event_21581",
+      "user": "user_234",
+      "event_date": "2026-06-22",
+      "settlement": "2026-06-23",
+      "days": 1
+    },
+    {
+      "event": "event_23202",
+      "user": "user_252",
+      "event_date": "2026-06-23",
+      "settlement": "2026-06-24",
+      "days": 1
+    },
+    {
+      "event": "event_24055",
+      "user": "user_261",
+      "event_date": "2026-05-26",
+      "settlement": "2026-05-27",
+      "days": 1
+    },
+    {
+      "event": "event_24056",
+      "user": "user_261",
+      "event_date": "2026-05-29",
+      "settlement": "2026-05-30",
+      "days": 1
+    },
+    {
+      "event": "event_25074",
+      "user": "user_272",
+      "event_date": "2025-01-20",
+      "settlement": "2025-01-21",
+      "days": 1
+    },
+    {
+      "event": "event_25341",
+      "user": "user_275",
+      "event_date": "2025-04-12",
+      "settlement": "2025-04-13",
+      "days": 1
+    }
+  ],
+  "amount_variants": {
+    "base": {
+      "exact": 4,
+      "mae": "262690.8952",
+      "signed": "161772.7448"
+    },
+    "no_projected_debits": {
+      "exact": 4,
+      "mae": "1083256.8588",
+      "signed": "1083256.8588"
+    },
+    "no_projected_credits": {
+      "exact": 3,
+      "mae": "1637015.1184",
+      "signed": "-1619750.4584"
+    },
+    "explicit_only": {
+      "exact": 4,
+      "mae": "1083256.8588",
+      "signed": "1083256.8588"
+    },
+    "projected_only": {
+      "exact": 3,
+      "mae": "303180.4576",
+      "signed": "180547.7192"
+    }
+  },
+  "candidate_action_counts": {
+    "users_with_actions": 231,
+    "max_combinations": 25,
+    "distribution": {
+      "1": 80,
+      "3": 107,
+      "0": 19,
+      "14": 8,
+      "7": 34,
+      "25": 2
+    }
+  }
+}

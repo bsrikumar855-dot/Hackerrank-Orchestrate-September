@@ -1,0 +1,8 @@
+# The deterministic core (code/core/*) is standard-library only and needs
+# nothing here -- `python3 code/main.py --no-llm` runs with a bare Python 3.11+.
+#
+# The agentic layer (code/agent/*) needs the Gemini SDK:
+google-genai>=1.0.0
+
+# Tests only:
+pytest>=8.0.0

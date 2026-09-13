@@ -1,0 +1,462 @@
+{
+  "base": {
+    "fields": {
+      "amount_safe_to_pay": 4,
+      "affordability_status": 21,
+      "recommended_payment_method": 23,
+      "payment_plan": 21,
+      "earliest_date_for_full_payment": 19,
+      "spending_changes_needed": 22
+    },
+    "exact": 110,
+    "proximity": "123.0478894931389218758195016",
+    "amount_proximity": "17.04788949313892187581950159"
+  },
+  "variant": {
+    "fields": {
+      "amount_safe_to_pay": 4,
+      "affordability_status": 20,
+      "recommended_payment_method": 22,
+      "payment_plan": 20,
+      "earliest_date_for_full_payment": 17,
+      "spending_changes_needed": 22
+    },
+    "exact": 105,
+    "proximity": "117.8387566408125080626615194",
+    "amount_proximity": "16.83875664081250806266151943"
+  },
+  "sample_changes": {
+    "request_02": {
+      "amount_safe_to_pay": [
+        "16237972.2",
+        "18456113.81",
+        "17229139.2"
+      ]
+    },
+    "request_04": {
+      "amount_safe_to_pay": [
+        "12683966.41",
+        "12693000",
+        "8401800"
+      ],
+      "affordability_status": [
+        "affordable_later",
+        "affordable_now",
+        "affordable_later"
+      ],
+      "recommended_payment_method": [
+        "wait",
+        "full_payment",
+        "wait"
+      ],
+      "payment_plan": [
+        "2024-06-15:12693000",
+        "2024-06-04:12693000",
+        "2024-06-15:12693000"
+      ],
+      "earliest_date_for_full_payment": [
+        "2024-06-15",
+        "2024-06-04",
+        "2024-06-15"
+      ]
+    },
+    "request_07": {
+      "amount_safe_to_pay": [
+        "98080.53",
+        "101903.15",
+        "87170.56"
+      ]
+    },
+    "request_14": {
+      "amount_safe_to_pay": [
+        "645.94",
+        "752.49",
+        "597.74"
+      ],
+      "earliest_date_for_full_payment": [
+        "",
+        "2025-10-15",
+        ""
+      ]
+    },
+    "request_19": {
+      "amount_safe_to_pay": [
+        "18835.02",
+        "24905.87",
+        "28820"
+      ],
+      "payment_plan": [
+        "2024-09-04:18835.02|2024-09-15:20824.98",
+        "2024-09-04:24905.87|2024-09-15:14754.13",
+        "2024-09-04:28820|2024-09-15:10840"
+      ]
+    },
+    "request_22": {
+      "amount_safe_to_pay": [
+        "478.19",
+        "506.65",
+        "475.46"
+      ]
+    },
+    "request_25": {
+      "amount_safe_to_pay": [
+        "1165150.85",
+        "1860200.31",
+        "1425000"
+      ]
+    }
+  },
+  "evaluation_changes": {
+    "request_28": [
+      "amount_safe_to_pay"
+    ],
+    "request_29": [
+      "amount_safe_to_pay"
+    ],
+    "request_31": [
+      "amount_safe_to_pay"
+    ],
+    "request_33": [
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_36": [
+      "amount_safe_to_pay",
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_40": [
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_53": [
+      "earliest_date_for_full_payment"
+    ],
+    "request_54": [
+      "amount_safe_to_pay"
+    ],
+    "request_63": [
+      "amount_safe_to_pay",
+      "payment_plan",
+      "decision_explanation"
+    ],
+    "request_67": [
+      "amount_safe_to_pay"
+    ],
+    "request_68": [
+      "amount_safe_to_pay"
+    ],
+    "request_79": [
+      "amount_safe_to_pay",
+      "decision_explanation"
+    ],
+    "request_80": [
+      "amount_safe_to_pay"
+    ],
+    "request_83": [
+      "amount_safe_to_pay"
+    ],
+    "request_94": [
+      "amount_safe_to_pay",
+      "affordability_status",
+      "earliest_date_for_full_payment",
+      "spending_changes_needed",
+      "decision_explanation"
+    ],
+    "request_98": [
+      "amount_safe_to_pay",
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_119": [
+      "amount_safe_to_pay"
+    ],
+    "request_126": [
+      "amount_safe_to_pay"
+    ],
+    "request_127": [
+      "amount_safe_to_pay"
+    ],
+    "request_139": [
+      "amount_safe_to_pay",
+      "earliest_date_for_full_payment"
+    ],
+    "request_140": [
+      "amount_safe_to_pay"
+    ],
+    "request_141": [
+      "amount_safe_to_pay",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_149": [
+      "amount_safe_to_pay",
+      "earliest_date_for_full_payment"
+    ],
+    "request_150": [
+      "amount_safe_to_pay"
+    ],
+    "request_159": [
+      "amount_safe_to_pay",
+      "decision_explanation"
+    ],
+    "request_166": [
+      "amount_safe_to_pay"
+    ],
+    "request_172": [
+      "amount_safe_to_pay",
+      "recommended_payment_method",
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_179": [
+      "amount_safe_to_pay",
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_183": [
+      "amount_safe_to_pay"
+    ],
+    "request_184": [
+      "amount_safe_to_pay"
+    ],
+    "request_186": [
+      "amount_safe_to_pay"
+    ],
+    "request_188": [
+      "amount_safe_to_pay"
+    ],
+    "request_193": [
+      "amount_safe_to_pay",
+      "earliest_date_for_full_payment"
+    ],
+    "request_194": [
+      "amount_safe_to_pay",
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ],
+    "request_207": [
+      "amount_safe_to_pay"
+    ],
+    "request_211": [
+      "amount_safe_to_pay"
+    ],
+    "request_216": [
+      "amount_safe_to_pay"
+    ],
+    "request_217": [
+      "earliest_date_for_full_payment"
+    ],
+    "request_219": [
+      "amount_safe_to_pay"
+    ],
+    "request_232": [
+      "amount_safe_to_pay"
+    ],
+    "request_251": [
+      "amount_safe_to_pay"
+    ],
+    "request_253": [
+      "amount_safe_to_pay",
+      "earliest_date_for_full_payment"
+    ],
+    "request_274": [
+      "amount_safe_to_pay"
+    ]
+  },
+  "removed_series_count": 183,
+  "removed_by_category": {
+    "transport": 59,
+    "dining": 33,
+    "groceries": 91
+  },
+  "removed_examples": [
+    [
+      "groceries",
+      "Neighbourhood grocer",
+      18,
+      4
+    ],
+    [
+      "groceries",
+      "Supermarket basket",
+      25,
+      4
+    ],
+    [
+      "groceries",
+      "Weekly produce market",
+      40,
+      3
+    ],
+    [
+      "transport",
+      "Vehicle charging",
+      38,
+      3
+    ],
+    [
+      "groceries",
+      "Grocery delivery",
+      18,
+      3
+    ],
+    [
+      "groceries",
+      "Local market purchase",
+      38,
+      3
+    ],
+    [
+      "transport",
+      "Local taxi",
+      42,
+      3
+    ],
+    [
+      "groceries",
+      "Fresh food shop",
+      24,
+      3
+    ],
+    [
+      "transport",
+      "Vehicle charging",
+      42,
+      3
+    ],
+    [
+      "groceries",
+      "Grocery delivery",
+      66,
+      3
+    ],
+    [
+      "transport",
+      "Metro and bus fares",
+      18,
+      2
+    ],
+    [
+      "dining",
+      "Weekend food delivery",
+      42,
+      2
+    ],
+    [
+      "dining",
+      "Lunch with colleagues",
+      21,
+      2
+    ],
+    [
+      "transport",
+      "Ride-hailing trip",
+      21,
+      2
+    ],
+    [
+      "groceries",
+      "Local market purchase",
+      35,
+      2
+    ],
+    [
+      "groceries",
+      "Grocery delivery",
+      25,
+      2
+    ],
+    [
+      "transport",
+      "Commuter pass",
+      42,
+      2
+    ],
+    [
+      "groceries",
+      "Fresh food shop",
+      35,
+      2
+    ],
+    [
+      "groceries",
+      "Local market purchase",
+      40,
+      2
+    ],
+    [
+      "groceries",
+      "Weekly produce market",
+      18,
+      2
+    ],
+    [
+      "groceries",
+      "Neighbourhood grocer",
+      20,
+      2
+    ],
+    [
+      "transport",
+      "Local taxi",
+      48,
+      2
+    ],
+    [
+      "groceries",
+      "Supermarket basket",
+      20,
+      2
+    ],
+    [
+      "groceries",
+      "Local market purchase",
+      20,
+      2
+    ],
+    [
+      "groceries",
+      "Weekly produce market",
+      35,
+      2
+    ],
+    [
+      "dining",
+      "Takeaway order",
+      10,
+      2
+    ],
+    [
+      "dining",
+      "Takeaway order",
+      42,
+      2
+    ],
+    [
+      "transport",
+      "Metro and bus fares",
+      10,
+      2
+    ],
+    [
+      "transport",
+      "Commuter pass",
+      10,
+      2
+    ],
+    [
+      "groceries",
+      "Neighbourhood grocer",
+      52,
+      2
+    ]
+  ]
+}

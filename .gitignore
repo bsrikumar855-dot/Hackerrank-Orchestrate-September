@@ -1,0 +1,10 @@
+log.txt
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+output.csv
+code.zip
+.audit/
+evaluation/audit_replay.csv

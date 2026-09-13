@@ -1,0 +1,53 @@
+{
+  "base": [
+    {
+      "amount_safe_to_pay": 4,
+      "affordability_status": 21,
+      "recommended_payment_method": 23,
+      "payment_plan": 21,
+      "earliest_date_for_full_payment": 18,
+      "spending_changes_needed": 22
+    },
+    109,
+    "122.0040373026746183311365260"
+  ],
+  "variant": [
+    {
+      "amount_safe_to_pay": 4,
+      "affordability_status": 21,
+      "recommended_payment_method": 23,
+      "payment_plan": 21,
+      "earliest_date_for_full_payment": 19,
+      "spending_changes_needed": 22
+    },
+    110,
+    "123.0478894931389218758195016"
+  ],
+  "sample_changes": {
+    "request_07": {
+      "amount_safe_to_pay": [
+        "101903.15",
+        "98080.53",
+        "87170.56"
+      ],
+      "earliest_date_for_full_payment": [
+        "2024-10-15",
+        "2024-10-23",
+        "2024-10-23"
+      ]
+    }
+  },
+  "evaluation_changes": {
+    "request_68": [
+      "earliest_date_for_full_payment"
+    ],
+    "request_131": [
+      "earliest_date_for_full_payment"
+    ],
+    "request_194": [
+      "payment_plan",
+      "earliest_date_for_full_payment",
+      "decision_explanation"
+    ]
+  }
+}

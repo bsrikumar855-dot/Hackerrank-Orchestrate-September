@@ -1,0 +1,83 @@
+[
+  {
+    "request": "request_233",
+    "added": [
+      [
+        "2025-11-15",
+        "16910000"
+      ]
+    ],
+    "before": {
+      "request_id": "request_233",
+      "amount_safe_to_pay": "0",
+      "affordability_status": "not_affordable",
+      "recommended_payment_method": "not_recommended",
+      "payment_plan": "none",
+      "earliest_date_for_full_payment": "",
+      "spending_changes_needed": "none",
+      "decision_explanation": "Do not make this payment by 17 December 2025. None of the available options keeps the IDR 10,365,700 minimum protected."
+    },
+    "after": {
+      "amount_safe_to_pay": "1525754.02",
+      "status": "not_affordable",
+      "method": "not_recommended",
+      "earliest": null,
+      "plan": null,
+      "changes": null
+    }
+  },
+  {
+    "request": "request_242",
+    "added": [
+      [
+        "2025-08-15",
+        "968"
+      ]
+    ],
+    "before": {
+      "request_id": "request_242",
+      "amount_safe_to_pay": "0",
+      "affordability_status": "not_affordable",
+      "recommended_payment_method": "not_recommended",
+      "payment_plan": "none",
+      "earliest_date_for_full_payment": "",
+      "spending_changes_needed": "none",
+      "decision_explanation": "Do not make this payment by 25 August 2025. None of the available options keeps the EUR 600 minimum protected."
+    },
+    "after": {
+      "amount_safe_to_pay": "0.00",
+      "status": "not_affordable",
+      "method": "not_recommended",
+      "earliest": null,
+      "plan": null,
+      "changes": null
+    }
+  },
+  {
+    "request": "request_269",
+    "added": [
+      [
+        "2025-11-15",
+        "38280"
+      ]
+    ],
+    "before": {
+      "request_id": "request_269",
+      "amount_safe_to_pay": "0",
+      "affordability_status": "not_affordable",
+      "recommended_payment_method": "not_recommended",
+      "payment_plan": "none",
+      "earliest_date_for_full_payment": "",
+      "spending_changes_needed": "none",
+      "decision_explanation": "Do not make this payment by 2 January 2026. None of the available options keeps the ZAR 23,100 minimum protected."
+    },
+    "after": {
+      "amount_safe_to_pay": "0.00",
+      "status": "not_affordable",
+      "method": "not_recommended",
+      "earliest": null,
+      "plan": null,
+      "changes": null
+    }
+  }
+]

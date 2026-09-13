@@ -1,0 +1,376 @@
+{
+  "future_messages": [],
+  "fanout_amendments": [],
+  "foreign_series_amendments": [],
+  "duplicate_category_series": [
+    [
+      "request_36",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Weekly produce market",
+        "Neighbourhood grocer",
+        "Grocery delivery"
+      ]
+    ],
+    [
+      "request_50",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Grocery delivery",
+        "Weekly produce market"
+      ]
+    ],
+    [
+      "request_67",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Household groceries",
+        "Weekly produce market"
+      ]
+    ],
+    [
+      "request_68",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Weekly produce market",
+        "Bulk pantry shop"
+      ]
+    ],
+    [
+      "request_80",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Grocery delivery",
+        "Neighbourhood grocer"
+      ]
+    ],
+    [
+      "request_82",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Rail pass",
+        "Commuter pass"
+      ]
+    ],
+    [
+      "request_92",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Local market purchase",
+        "Neighbourhood grocer"
+      ]
+    ],
+    [
+      "request_94",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Weekly produce market",
+        "Local market purchase"
+      ]
+    ],
+    [
+      "request_96",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Parking and tolls",
+        "Vehicle charging"
+      ]
+    ],
+    [
+      "request_98",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Weekly produce market",
+        "Bulk pantry shop"
+      ]
+    ],
+    [
+      "request_98",
+      [
+        "dining",
+        "debit"
+      ],
+      [
+        "Bakery and snacks",
+        "Takeaway order"
+      ]
+    ],
+    [
+      "request_108",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Supermarket basket",
+        "Neighbourhood grocer"
+      ]
+    ],
+    [
+      "request_134",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Grocery delivery",
+        "Neighbourhood grocer",
+        "Local market purchase"
+      ]
+    ],
+    [
+      "request_135",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Bulk pantry shop",
+        "Supermarket basket"
+      ]
+    ],
+    [
+      "request_139",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Household groceries",
+        "Bulk pantry shop"
+      ]
+    ],
+    [
+      "request_140",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Bulk pantry shop",
+        "Neighbourhood grocer"
+      ]
+    ],
+    [
+      "request_141",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Grocery delivery",
+        "Supermarket basket"
+      ]
+    ],
+    [
+      "request_179",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Vehicle charging",
+        "Local taxi",
+        "Commuter pass"
+      ]
+    ],
+    [
+      "request_183",
+      [
+        "dining",
+        "debit"
+      ],
+      [
+        "Coffee shop",
+        "Bakery and snacks"
+      ]
+    ],
+    [
+      "request_186",
+      [
+        "dining",
+        "debit"
+      ],
+      [
+        "Family dinner",
+        "Lunch with colleagues"
+      ]
+    ],
+    [
+      "request_188",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Bulk pantry shop",
+        "Local market purchase"
+      ]
+    ],
+    [
+      "request_195",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Rail pass",
+        "Fuel refill"
+      ]
+    ],
+    [
+      "request_201",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Bulk pantry shop",
+        "Local market purchase"
+      ]
+    ],
+    [
+      "request_201",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Vehicle charging",
+        "Local taxi"
+      ]
+    ],
+    [
+      "request_214",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Local taxi",
+        "Vehicle charging"
+      ]
+    ],
+    [
+      "request_247",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Fresh food shop",
+        "Bulk pantry shop"
+      ]
+    ],
+    [
+      "request_263",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Bulk pantry shop",
+        "Local market purchase"
+      ]
+    ],
+    [
+      "request_267",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Bulk pantry shop",
+        "Neighbourhood grocer"
+      ]
+    ],
+    [
+      "request_267",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Fuel refill",
+        "Vehicle charging"
+      ]
+    ],
+    [
+      "request_271",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Local market purchase",
+        "Weekly produce market"
+      ]
+    ],
+    [
+      "request_21",
+      [
+        "groceries",
+        "debit"
+      ],
+      [
+        "Weekly produce market",
+        "Household groceries"
+      ]
+    ],
+    [
+      "request_24",
+      [
+        "transport",
+        "debit"
+      ],
+      [
+        "Local taxi",
+        "Ride-hailing trip"
+      ]
+    ],
+    [
+      "request_24",
+      [
+        "dining",
+        "debit"
+      ],
+      [
+        "Lunch with colleagues",
+        "Family dinner"
+      ]
+    ]
+  ],
+  "conflicting_amendments": [],
+  "message_source_mismatch": [],
+  "missing_source_reason": []
+}

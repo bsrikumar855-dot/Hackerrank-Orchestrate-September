@@ -1,5 +1,26 @@
 # HackerRank Orchestrate
 
+## Submitted solution: start here
+
+The implementation is complete. Run `python code/main.py --no-llm` to use
+the supplied cached evidence without API calls. Existing output rows are
+resumed by ID; use `python evaluation/final_audit.py` for a fresh, offline
+recomputation into `evaluation/audit_replay.csv` without changing the submission.
+The replay requires the supplied `dataset/` beside `code/`.
+
+Read [the solution guide](code/README.md) for setup and architecture, and
+[the final audit](evaluation/FINAL_AUDIT.md) for verified results, limits,
+the final changes, and judge questions. The final suite has 142 passing tests;
+the public development examples score 110/150 exact and 123.048/150 under our
+proximity metric. These are not hidden-test or leaderboard scores.
+
+The numeric core is deterministic; Gemini extracts document amounts and
+message amendments. Submitted explanations use templates. Safety checks are
+conditional on the reconstructed forecast: omitted essential spending and
+incorrect extracted facts can still make a recommendation optimistic.
+
+The starter instructions below describe the original challenge.
+
 Starter repository for the **HackerRank Orchestrate** 24-hour hackathon (September 2026).
 
 ## Buy or Wait?
@@ -191,3 +212,4 @@ Before submitting, confirm:
 - Every `amount_safe_to_pay` satisfies `0 <= amount_safe_to_pay <= requested_amount`.
 - Every installment plan matches a supplied payment option, and every spending change targets a flexible recurring expense.
 - Your runnable code, setup instructions, and `evaluation/` folder are included in `code.zip`.
+

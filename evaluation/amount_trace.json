@@ -1,0 +1,3540 @@
+[
+  {
+    "request": "request_01",
+    "pred": "25612.20",
+    "truth": "25256",
+    "error": "356.20",
+    "binding": [
+      "2024-05-17",
+      "2024-05-21",
+      "2024-05-24",
+      "2024-05-22",
+      "2024-05-25",
+      "2024-05-26",
+      "2024-05-28",
+      "2024-06-01",
+      "2024-05-20",
+      "2024-05-19",
+      "2024-05-29",
+      "2024-05-23",
+      "2024-05-31",
+      "2024-05-16",
+      "2024-05-18",
+      "2024-05-30",
+      "2024-05-27"
+    ],
+    "series": [
+      {
+        "cat": "rent",
+        "desc": "Apartment rent transfer",
+        "dir": "debit",
+        "amount": "5148",
+        "cadence": 30,
+        "last": "2024-03-02",
+        "history_amounts": [
+          "5148",
+          "5148",
+          "5148",
+          "5148",
+          "5148"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "utilities",
+        "desc": "Household utility payment",
+        "dir": "debit",
+        "amount": "1651.81",
+        "cadence": 30,
+        "last": "2024-02-06",
+        "history_amounts": [
+          "1475.46",
+          "1483.81",
+          "1541.75",
+          "1651.81",
+          "1386.17"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "Professional training fee",
+        "dir": "debit",
+        "amount": "1821.6",
+        "cadence": 30,
+        "last": "2024-02-08",
+        "history_amounts": [
+          "1821.6",
+          "1821.6",
+          "1821.6",
+          "1821.6",
+          "1821.6"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Education loan instalment",
+        "dir": "debit",
+        "amount": "3487",
+        "cadence": 30,
+        "last": "2024-02-11",
+        "history_amounts": [
+          "3487",
+          "3487",
+          "3487",
+          "3487",
+          "3487"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music service subscription",
+        "dir": "debit",
+        "amount": "235.4",
+        "cadence": 30,
+        "last": "2024-02-11",
+        "history_amounts": [
+          "235.4",
+          "235.4",
+          "235.4",
+          "235.4",
+          "235.4"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Delivery service plan",
+        "dir": "debit",
+        "amount": "306.9",
+        "cadence": 30,
+        "last": "2024-02-13",
+        "history_amounts": [
+          "306.9",
+          "306.9",
+          "306.9",
+          "306.9",
+          "306.9"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Supermarket basket",
+        "dir": "debit",
+        "amount": "881.22",
+        "cadence": 18,
+        "last": "2024-02-16",
+        "history_amounts": [
+          "875.35",
+          "624.94",
+          "881.22"
+        ],
+        "projected_count": 5
+      },
+      {
+        "cat": "transport",
+        "desc": "Local taxi",
+        "dir": "debit",
+        "amount": "411.07",
+        "cadence": 66,
+        "last": "2024-03-02",
+        "history_amounts": [
+          "351.49",
+          "411.07",
+          "339.29"
+        ],
+        "projected_count": 1
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2024-03-05",
+        "amount": "-567.6",
+        "cat": "transport",
+        "id": "event_102"
+      },
+      {
+        "date": "2024-03-15",
+        "amount": "23320",
+        "cat": "salary",
+        "id": "event_103"
+      }
+    ]
+  },
+  {
+    "request": "request_02",
+    "pred": "16237972.20",
+    "truth": "17229139.2",
+    "error": "-991167.00",
+    "binding": [
+      "2025-08-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "33345000",
+        "cadence": 30,
+        "last": "2025-07-15",
+        "history_amounts": [
+          "33345000",
+          "33345000",
+          "33345000",
+          "33345000",
+          "33345000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "housing",
+        "desc": "Home repair reserve",
+        "dir": "debit",
+        "amount": "3534000",
+        "cadence": 30,
+        "last": "2025-08-04",
+        "history_amounts": [
+          "3534000",
+          "3534000",
+          "3534000",
+          "3534000",
+          "3534000"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "2141849.94",
+        "cadence": 30,
+        "last": "2025-07-07",
+        "history_amounts": [
+          "2143659.02",
+          "2081730.85",
+          "1830311.06",
+          "1981601.61",
+          "2141849.94"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Household insurance",
+        "dir": "debit",
+        "amount": "1132400",
+        "cadence": 30,
+        "last": "2025-07-08",
+        "history_amounts": [
+          "1132400",
+          "1132400",
+          "1132400",
+          "1132400",
+          "1132400"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "Course tuition",
+        "dir": "debit",
+        "amount": "3040000",
+        "cadence": 30,
+        "last": "2025-07-09",
+        "history_amounts": [
+          "3040000",
+          "3040000",
+          "3040000",
+          "3040000",
+          "3040000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Clinic payment",
+        "dir": "debit",
+        "amount": "1641668.72",
+        "cadence": 30,
+        "last": "2025-07-11",
+        "history_amounts": [
+          "1594883.08",
+          "1467514.81",
+          "1452405.16",
+          "1641668.72",
+          "1538498.1"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Cinema and events",
+        "dir": "debit",
+        "amount": "1352563.79",
+        "cadence": 30,
+        "last": "2025-07-15",
+        "history_amounts": [
+          "1289187.4",
+          "1367779.89",
+          "1287628.28",
+          "1193699.1",
+          "1352563.79"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Shared storage plan",
+        "dir": "debit",
+        "amount": "369550",
+        "cadence": 30,
+        "last": "2025-07-13",
+        "history_amounts": [
+          "369550",
+          "369550",
+          "369550",
+          "369550",
+          "369550"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Local market purchase",
+        "dir": "debit",
+        "amount": "2218141.61",
+        "cadence": 35,
+        "last": "2025-07-10",
+        "history_amounts": [
+          "2192475.45",
+          "1611886.08",
+          "2218141.61"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "transport",
+        "desc": "Ride-hailing trip",
+        "dir": "debit",
+        "amount": "1440242.94",
+        "cadence": 14,
+        "last": "2025-04-22",
+        "history_amounts": [
+          "1053078.61",
+          "1294200.86",
+          "1440242.94"
+        ],
+        "projected_count": 6
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2025-08-08",
+        "amount": "-1651100",
+        "cat": "shopping",
+        "id": "event_185"
+      }
+    ]
+  },
+  {
+    "request": "request_03",
+    "pred": "1050071.39",
+    "truth": "873000",
+    "error": "177071.39",
+    "binding": [
+      "2019-09-14"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "4365000",
+        "cadence": 30,
+        "last": "2019-08-15",
+        "history_amounts": [
+          "4365000",
+          "4365000",
+          "4365000",
+          "4365000",
+          "4365000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Landlord standing order",
+        "dir": "debit",
+        "amount": "1140000",
+        "cadence": 30,
+        "last": "2019-08-04",
+        "history_amounts": [
+          "1140000",
+          "1140000",
+          "1140000",
+          "1140000",
+          "1140000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Water and power payment",
+        "dir": "debit",
+        "amount": "303042.45",
+        "cadence": 30,
+        "last": "2019-08-08",
+        "history_amounts": [
+          "295330.29",
+          "290684.15",
+          "270537.63",
+          "303042.45",
+          "262344.55"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Shared storage plan",
+        "dir": "debit",
+        "amount": "20900",
+        "cadence": 30,
+        "last": "2019-08-14",
+        "history_amounts": [
+          "20900",
+          "20900",
+          "20900",
+          "20900",
+          "20900"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Video streaming plan",
+        "dir": "debit",
+        "amount": "117800",
+        "cadence": 30,
+        "last": "2019-08-11",
+        "history_amounts": [
+          "117800",
+          "117800",
+          "117800",
+          "117800",
+          "117800"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Clothing and household items",
+        "dir": "debit",
+        "amount": "180395.29",
+        "cadence": 30,
+        "last": "2019-08-14",
+        "history_amounts": [
+          "151493.37",
+          "184274.02",
+          "153395.26",
+          "173930.81",
+          "180395.29"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Bulk pantry shop",
+        "dir": "debit",
+        "amount": "234390.87",
+        "cadence": 7,
+        "last": "2019-04-01",
+        "history_amounts": [
+          "159576.52",
+          "234390.87",
+          "230312.98"
+        ],
+        "projected_count": 13
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2019-09-07",
+        "amount": "-95000",
+        "cat": "healthcare",
+        "id": "event_254"
+      }
+    ]
+  },
+  {
+    "request": "request_04",
+    "pred": "12683966.41",
+    "truth": "8401800",
+    "error": "4282166.41",
+    "binding": [
+      "2024-06-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "38190000",
+        "cadence": 30,
+        "last": "2024-05-15",
+        "history_amounts": [
+          "38190000",
+          "38190000",
+          "38190000",
+          "38190000",
+          "38190000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Residential rent payment",
+        "dir": "debit",
+        "amount": "12293000",
+        "cadence": 30,
+        "last": "2024-06-01",
+        "history_amounts": [
+          "12293000",
+          "12293000",
+          "12293000",
+          "12293000",
+          "12293000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "2033868.83",
+        "cadence": 30,
+        "last": "2024-05-05",
+        "history_amounts": [
+          "2017103.37",
+          "1981052.47",
+          "2033868.83",
+          "1980834.82",
+          "2004118.6"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music service subscription",
+        "dir": "debit",
+        "amount": "332500",
+        "cadence": 30,
+        "last": "2024-05-10",
+        "history_amounts": [
+          "332500",
+          "332500",
+          "332500",
+          "332500",
+          "332500"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Food delivery membership",
+        "dir": "debit",
+        "amount": "377150",
+        "cadence": 30,
+        "last": "2024-05-12",
+        "history_amounts": [
+          "377150",
+          "377150",
+          "377150",
+          "377150",
+          "377150"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "gym",
+        "desc": "Gym membership",
+        "dir": "debit",
+        "amount": "1027900",
+        "cadence": 30,
+        "last": "2024-05-09",
+        "history_amounts": [
+          "1027900",
+          "1027900",
+          "1027900",
+          "1027900",
+          "1027900"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Local event tickets",
+        "dir": "debit",
+        "amount": "1542620",
+        "cadence": 30,
+        "last": "2024-05-13",
+        "history_amounts": [
+          "1484369.68",
+          "1375854.05",
+          "1542620",
+          "1291303.65",
+          "1231859.39"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Weekly produce market",
+        "dir": "debit",
+        "amount": "1818044.76",
+        "cadence": 18,
+        "last": "2024-02-10",
+        "history_amounts": [
+          "1818044.76",
+          "1178544.55",
+          "1087788.82"
+        ],
+        "projected_count": 5
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2024-06-11",
+        "amount": "-1704300",
+        "cat": "education",
+        "id": "event_357"
+      }
+    ]
+  },
+  {
+    "request": "request_05",
+    "pred": "7006.21",
+    "truth": "737",
+    "error": "6269.21",
+    "binding": [
+      "2026-02-02",
+      "2026-02-04",
+      "2026-02-03"
+    ],
+    "series": [
+      {
+        "cat": "rent",
+        "desc": "Apartment rent transfer",
+        "dir": "debit",
+        "amount": "4972",
+        "cadence": 30,
+        "last": "2025-11-02",
+        "history_amounts": [
+          "4972",
+          "4972",
+          "4972",
+          "4972",
+          "4972"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "750.89",
+        "cadence": 30,
+        "last": "2025-10-06",
+        "history_amounts": [
+          "604.15",
+          "658.41",
+          "750.89",
+          "706.37",
+          "713.71"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Vehicle loan payment",
+        "dir": "debit",
+        "amount": "968",
+        "cadence": 30,
+        "last": "2025-10-11",
+        "history_amounts": [
+          "968",
+          "968",
+          "968",
+          "968",
+          "968"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Therapy appointment",
+        "dir": "debit",
+        "amount": "722.37",
+        "cadence": 30,
+        "last": "2025-10-10",
+        "history_amounts": [
+          "777.27",
+          "641.37",
+          "632.59",
+          "721.44",
+          "722.37"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "family_support",
+        "desc": "Dependent care payment",
+        "dir": "debit",
+        "amount": "840.4",
+        "cadence": 30,
+        "last": "2025-10-13",
+        "history_amounts": [
+          "840.4",
+          "840.4",
+          "840.4",
+          "840.4",
+          "840.4"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "113.3",
+        "cadence": 30,
+        "last": "2025-10-12",
+        "history_amounts": [
+          "113.3",
+          "113.3",
+          "113.3",
+          "113.3",
+          "113.3"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Personal shopping",
+        "dir": "debit",
+        "amount": "422.67",
+        "cadence": 30,
+        "last": "2025-10-12",
+        "history_amounts": [
+          "379.94",
+          "404.24",
+          "422.67",
+          "420.31",
+          "362.09"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_06",
+    "pred": "598.01",
+    "truth": "603.3",
+    "error": "-5.29",
+    "binding": [
+      "2026-01-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "1037.52",
+        "cadence": 30,
+        "last": "2025-12-15",
+        "history_amounts": [
+          "1441",
+          "1441",
+          "1441",
+          "1037.52",
+          "1037.52"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "254.1",
+        "cadence": 30,
+        "last": "2025-12-03",
+        "history_amounts": [
+          "254.1",
+          "254.1",
+          "254.1",
+          "254.1",
+          "254.1"
+        ],
+        "projected_count": 4
+      },
+      {
+        "cat": "utilities",
+        "desc": "Water and power payment",
+        "dir": "debit",
+        "amount": "58.98",
+        "cadence": 30,
+        "last": "2025-12-07",
+        "history_amounts": [
+          "58.34",
+          "52.62",
+          "58.98",
+          "56.71",
+          "51.86"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Vehicle insurance premium",
+        "dir": "debit",
+        "amount": "26",
+        "cadence": 30,
+        "last": "2025-12-08",
+        "history_amounts": [
+          "26",
+          "26",
+          "26",
+          "26",
+          "26"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Shared storage plan",
+        "dir": "debit",
+        "amount": "5",
+        "cadence": 30,
+        "last": "2025-12-13",
+        "history_amounts": [
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Family streaming plan",
+        "dir": "debit",
+        "amount": "19",
+        "cadence": 30,
+        "last": "2025-12-10",
+        "history_amounts": [
+          "19",
+          "19",
+          "19",
+          "19",
+          "19"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Household shopping",
+        "dir": "debit",
+        "amount": "39.88",
+        "cadence": 30,
+        "last": "2025-12-13",
+        "history_amounts": [
+          "41.44",
+          "46.25",
+          "39.46",
+          "37.96",
+          "39.88"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Monthly entertainment spend",
+        "dir": "debit",
+        "amount": "38.33",
+        "cadence": 30,
+        "last": "2025-12-15",
+        "history_amounts": [
+          "32.1",
+          "35.1",
+          "32.18",
+          "37.36",
+          "38.33"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Fresh food shop",
+        "dir": "debit",
+        "amount": "51.55",
+        "cadence": 7,
+        "last": "2025-10-19",
+        "history_amounts": [
+          "51.55",
+          "46.22",
+          "32.96"
+        ],
+        "projected_count": 13
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_07",
+    "pred": "98080.53",
+    "truth": "87170.56",
+    "error": "10909.97",
+    "binding": [
+      "2024-09-21",
+      "2024-09-22",
+      "2024-09-20"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "149000",
+        "cadence": 30,
+        "last": "2024-08-23",
+        "history_amounts": [
+          "149000",
+          "149000",
+          "149000",
+          "149000",
+          "149000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "34200",
+        "cadence": 30,
+        "last": "2024-09-04",
+        "history_amounts": [
+          "34200",
+          "34200",
+          "34200",
+          "34200",
+          "34200"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Electricity bill",
+        "dir": "debit",
+        "amount": "7387.41",
+        "cadence": 30,
+        "last": "2024-08-08",
+        "history_amounts": [
+          "7219.31",
+          "7049.68",
+          "7387.41",
+          "6081.25",
+          "6209.57"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Personal loan payment",
+        "dir": "debit",
+        "amount": "15650",
+        "cadence": 30,
+        "last": "2024-08-13",
+        "history_amounts": [
+          "15650",
+          "15650",
+          "15650",
+          "15650",
+          "15650"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music subscription",
+        "dir": "debit",
+        "amount": "1005",
+        "cadence": 30,
+        "last": "2024-08-13",
+        "history_amounts": [
+          "1005",
+          "1005",
+          "1005",
+          "1005",
+          "1005"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "transport",
+        "desc": "Rail pass",
+        "dir": "debit",
+        "amount": "3822.62",
+        "cadence": 21,
+        "last": "2024-08-09",
+        "history_amounts": [
+          "3822.62",
+          "2751.86",
+          "3773.92"
+        ],
+        "projected_count": 4
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_08",
+    "pred": "432.57",
+    "truth": "284.57",
+    "error": "148.00",
+    "binding": [
+      "2025-02-14",
+      "2025-02-12",
+      "2025-02-13"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "782.57",
+        "cadence": 30,
+        "last": "2025-01-15",
+        "history_amounts": [
+          "1422.85",
+          "1422.85",
+          "1422.85",
+          "1422.85",
+          "782.57"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Apartment rent transfer",
+        "dir": "debit",
+        "amount": "467.5",
+        "cadence": 30,
+        "last": "2025-02-01",
+        "history_amounts": [
+          "467.5",
+          "467.5",
+          "467.5",
+          "467.5",
+          "467.5"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "82.61",
+        "cadence": 30,
+        "last": "2025-02-05",
+        "history_amounts": [
+          "80.9",
+          "68.44",
+          "82.61",
+          "69.28",
+          "80.55"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "School fee payment",
+        "dir": "debit",
+        "amount": "89",
+        "cadence": 30,
+        "last": "2025-01-07",
+        "history_amounts": [
+          "89",
+          "89",
+          "89",
+          "89",
+          "89"
+        ],
+        "projected_count": 4
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Personal loan payment",
+        "dir": "debit",
+        "amount": "177",
+        "cadence": 30,
+        "last": "2025-01-10",
+        "history_amounts": [
+          "177",
+          "177",
+          "177",
+          "177",
+          "177"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music subscription",
+        "dir": "debit",
+        "amount": "14",
+        "cadence": 30,
+        "last": "2025-01-10",
+        "history_amounts": [
+          "14",
+          "14",
+          "14",
+          "14",
+          "14"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Grocery delivery membership",
+        "dir": "debit",
+        "amount": "24",
+        "cadence": 30,
+        "last": "2025-01-12",
+        "history_amounts": [
+          "24",
+          "24",
+          "24",
+          "24",
+          "24"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_09",
+    "pred": "624.42",
+    "truth": "166.61",
+    "error": "457.81",
+    "binding": [
+      "2026-10-02"
+    ],
+    "series": [
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "211.2",
+        "cadence": 30,
+        "last": "2026-07-02",
+        "history_amounts": [
+          "211.2",
+          "211.2",
+          "211.2",
+          "211.2",
+          "211.2"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Water and power payment",
+        "dir": "debit",
+        "amount": "71.04",
+        "cadence": 30,
+        "last": "2026-06-06",
+        "history_amounts": [
+          "66.84",
+          "59.39",
+          "71.04",
+          "63.66",
+          "60.88"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "5",
+        "cadence": 30,
+        "last": "2026-06-12",
+        "history_amounts": [
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Video streaming plan",
+        "dir": "debit",
+        "amount": "20",
+        "cadence": 30,
+        "last": "2026-06-09",
+        "history_amounts": [
+          "20",
+          "20",
+          "20",
+          "20",
+          "20"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Household shopping",
+        "dir": "debit",
+        "amount": "28.32",
+        "cadence": 30,
+        "last": "2026-06-12",
+        "history_amounts": [
+          "25.5",
+          "29.14",
+          "28.32",
+          "24.68",
+          "25.52"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_10",
+    "pred": "198118.63",
+    "truth": "12700",
+    "error": "185418.63",
+    "binding": [
+      "2025-03-05",
+      "2025-03-03",
+      "2025-03-06",
+      "2025-03-04"
+    ],
+    "series": [
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "69100",
+        "cadence": 30,
+        "last": "2024-12-03",
+        "history_amounts": [
+          "69100",
+          "69100",
+          "69100",
+          "69100",
+          "69100"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Electricity and water bill",
+        "dir": "debit",
+        "amount": "17771.13",
+        "cadence": 30,
+        "last": "2024-11-07",
+        "history_amounts": [
+          "19224.83",
+          "17538.11",
+          "15748.74",
+          "15236.94",
+          "17771.13"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music subscription",
+        "dir": "debit",
+        "amount": "2800",
+        "cadence": 30,
+        "last": "2024-11-12",
+        "history_amounts": [
+          "2800",
+          "2800",
+          "2800",
+          "2800",
+          "2800"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Delivery service plan",
+        "dir": "debit",
+        "amount": "1895",
+        "cadence": 30,
+        "last": "2024-11-14",
+        "history_amounts": [
+          "1895",
+          "1895",
+          "1895",
+          "1895",
+          "1895"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "gym",
+        "desc": "Community fitness plan",
+        "dir": "debit",
+        "amount": "4860",
+        "cadence": 30,
+        "last": "2024-11-11",
+        "history_amounts": [
+          "4860",
+          "4860",
+          "4860",
+          "4860",
+          "4860"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Cinema and events",
+        "dir": "debit",
+        "amount": "4883.78",
+        "cadence": 30,
+        "last": "2024-11-15",
+        "history_amounts": [
+          "4770.41",
+          "4504.6",
+          "4700.56",
+          "4366.61",
+          "4883.78"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "transport",
+        "desc": "Parking and tolls",
+        "dir": "debit",
+        "amount": "7568.88",
+        "cadence": 30,
+        "last": "2024-09-27",
+        "history_amounts": [
+          "7568.88",
+          "5747.77",
+          "6785.52"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_11",
+    "pred": "15881641.52",
+    "truth": "12510645",
+    "error": "3370996.52",
+    "binding": [
+      "2025-05-14"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Base salary",
+        "dir": "credit",
+        "amount": "23256000",
+        "cadence": 30,
+        "last": "2025-04-15",
+        "history_amounts": [
+          "23256000",
+          "23256000",
+          "23256000",
+          "23256000",
+          "23256000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "housing",
+        "desc": "Home association fee",
+        "dir": "debit",
+        "amount": "2954500",
+        "cadence": 30,
+        "last": "2025-04-05",
+        "history_amounts": [
+          "2954500",
+          "2954500",
+          "2954500",
+          "2954500",
+          "2954500"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "2796165.18",
+        "cadence": 30,
+        "last": "2025-04-08",
+        "history_amounts": [
+          "2916312.61",
+          "2891149.67",
+          "2508782.45",
+          "2488665.63",
+          "2796165.18"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Vehicle insurance premium",
+        "dir": "debit",
+        "amount": "1881000",
+        "cadence": 30,
+        "last": "2025-04-09",
+        "history_amounts": [
+          "1881000",
+          "1881000",
+          "1881000",
+          "1881000",
+          "1881000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "Child education fee",
+        "dir": "debit",
+        "amount": "2544100",
+        "cadence": 30,
+        "last": "2025-04-10",
+        "history_amounts": [
+          "2544100",
+          "2544100",
+          "2544100",
+          "2544100",
+          "2544100"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Regular medicine purchase",
+        "dir": "debit",
+        "amount": "3165638.3",
+        "cadence": 30,
+        "last": "2025-04-12",
+        "history_amounts": [
+          "2635764.61",
+          "3118089.32",
+          "2973572.96",
+          "3165638.3",
+          "2826901.92"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Games and recreation",
+        "dir": "debit",
+        "amount": "1674887.61",
+        "cadence": 30,
+        "last": "2025-04-16",
+        "history_amounts": [
+          "1404572.9",
+          "1688239.04",
+          "1587027.72",
+          "1649906.5",
+          "1674887.61"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "168150",
+        "cadence": 30,
+        "last": "2025-04-14",
+        "history_amounts": [
+          "168150",
+          "168150",
+          "168150",
+          "168150",
+          "168150"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_12",
+    "pred": "89738.26",
+    "truth": "65164",
+    "error": "24574.26",
+    "binding": [
+      "2026-07-01",
+      "2026-07-04",
+      "2026-07-03",
+      "2026-07-02"
+    ],
+    "series": [
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "11792",
+        "cadence": 30,
+        "last": "2026-04-01",
+        "history_amounts": [
+          "11792",
+          "11792",
+          "11792",
+          "11792",
+          "11792"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Water and power payment",
+        "dir": "debit",
+        "amount": "3755.96",
+        "cadence": 30,
+        "last": "2026-03-05",
+        "history_amounts": [
+          "3103.78",
+          "3374.49",
+          "3755.96",
+          "3708.19",
+          "3606.2"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Shared storage plan",
+        "dir": "debit",
+        "amount": "447.7",
+        "cadence": 30,
+        "last": "2026-03-11",
+        "history_amounts": [
+          "447.7",
+          "447.7",
+          "447.7",
+          "447.7",
+          "447.7"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Family streaming plan",
+        "dir": "debit",
+        "amount": "1504.8",
+        "cadence": 30,
+        "last": "2026-03-08",
+        "history_amounts": [
+          "1504.8",
+          "1504.8",
+          "1504.8",
+          "1504.8",
+          "1504.8"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Monthly shopping spend",
+        "dir": "debit",
+        "amount": "1401.99",
+        "cadence": 30,
+        "last": "2026-03-11",
+        "history_amounts": [
+          "1267.67",
+          "1243.49",
+          "1401.99",
+          "1196.86",
+          "1169.42"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "transport",
+        "desc": "Vehicle charging",
+        "dir": "debit",
+        "amount": "1722.14",
+        "cadence": 42,
+        "last": "2026-02-13",
+        "history_amounts": [
+          "1282.01",
+          "1722.14",
+          "1355.85"
+        ],
+        "projected_count": 2
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_13",
+    "pred": "1340.62",
+    "truth": "433.4",
+    "error": "907.22",
+    "binding": [
+      "2024-03-14"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Primary household salary",
+        "dir": "credit",
+        "amount": "1343.54",
+        "cadence": 30,
+        "last": "2024-02-15",
+        "history_amounts": [
+          "1343.54",
+          "1343.54",
+          "1343.54",
+          "1343.54",
+          "1343.54"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "rent",
+        "desc": "Shared housing rent",
+        "dir": "debit",
+        "amount": "622.6",
+        "cadence": 30,
+        "last": "2024-03-02",
+        "history_amounts": [
+          "622.6",
+          "622.6",
+          "622.6",
+          "622.6",
+          "622.6"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Water and power payment",
+        "dir": "debit",
+        "amount": "143.7",
+        "cadence": 30,
+        "last": "2024-03-06",
+        "history_amounts": [
+          "143.39",
+          "146.33",
+          "143.7",
+          "131.53",
+          "134.25"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music subscription",
+        "dir": "debit",
+        "amount": "29",
+        "cadence": 30,
+        "last": "2024-02-11",
+        "history_amounts": [
+          "29",
+          "29",
+          "29",
+          "29",
+          "29"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Delivery service plan",
+        "dir": "debit",
+        "amount": "21",
+        "cadence": 30,
+        "last": "2024-02-13",
+        "history_amounts": [
+          "21",
+          "21",
+          "21",
+          "21",
+          "21"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "gym",
+        "desc": "Community fitness plan",
+        "dir": "debit",
+        "amount": "61",
+        "cadence": 30,
+        "last": "2024-02-10",
+        "history_amounts": [
+          "61",
+          "61",
+          "61",
+          "61",
+          "61"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Local event tickets",
+        "dir": "debit",
+        "amount": "37.9",
+        "cadence": 30,
+        "last": "2024-02-14",
+        "history_amounts": [
+          "33.83",
+          "30.88",
+          "37.9",
+          "31.8",
+          "30.39"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2024-03-15",
+        "amount": "1343.54",
+        "cat": "salary",
+        "id": "event_1161"
+      }
+    ]
+  },
+  {
+    "request": "request_14",
+    "pred": "645.94",
+    "truth": "597.74",
+    "error": "48.20",
+    "binding": [
+      "2025-08-14"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll before leave",
+        "dir": "credit",
+        "amount": "2717",
+        "cadence": 30,
+        "last": "2025-04-15",
+        "history_amounts": [
+          "2717",
+          "2717"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "688.6",
+        "cadence": 30,
+        "last": "2025-08-03",
+        "history_amounts": [
+          "688.6",
+          "688.6",
+          "688.6",
+          "688.6",
+          "688.6"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "utilities",
+        "desc": "Energy provider bill",
+        "dir": "debit",
+        "amount": "153.69",
+        "cadence": 30,
+        "last": "2025-07-07",
+        "history_amounts": [
+          "141.46",
+          "156.08",
+          "143.45",
+          "146.41",
+          "153.69"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Credit card repayment",
+        "dir": "debit",
+        "amount": "350",
+        "cadence": 30,
+        "last": "2025-07-12",
+        "history_amounts": [
+          "350",
+          "350",
+          "350",
+          "350",
+          "350"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Family healthcare expense",
+        "dir": "debit",
+        "amount": "95.17",
+        "cadence": 30,
+        "last": "2025-07-11",
+        "history_amounts": [
+          "92.08",
+          "92.65",
+          "95.17",
+          "91.77",
+          "87.84"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "family_support",
+        "desc": "Family support payment",
+        "dir": "debit",
+        "amount": "226",
+        "cadence": 30,
+        "last": "2025-07-14",
+        "history_amounts": [
+          "226",
+          "226",
+          "226",
+          "226",
+          "226"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "14",
+        "cadence": 30,
+        "last": "2025-07-13",
+        "history_amounts": [
+          "14",
+          "14",
+          "14",
+          "14",
+          "14"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Online retail purchases",
+        "dir": "debit",
+        "amount": "140.39",
+        "cadence": 30,
+        "last": "2025-07-13",
+        "history_amounts": [
+          "137.03",
+          "123.04",
+          "123.12",
+          "123.77",
+          "140.39"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Supermarket basket",
+        "dir": "debit",
+        "amount": "106.55",
+        "cadence": 10,
+        "last": "2025-05-25",
+        "history_amounts": [
+          "106.55",
+          "96.42",
+          "101.15"
+        ],
+        "projected_count": 9
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_15",
+    "pred": "198.66",
+    "truth": "83.05",
+    "error": "115.61",
+    "binding": [
+      "2026-01-15"
+    ],
+    "series": [
+      {
+        "cat": "rent",
+        "desc": "Landlord standing order",
+        "dir": "debit",
+        "amount": "435.6",
+        "cadence": 30,
+        "last": "2026-01-04",
+        "history_amounts": [
+          "435.6",
+          "435.6",
+          "435.6",
+          "435.6",
+          "435.6"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Energy provider bill",
+        "dir": "debit",
+        "amount": "90.39",
+        "cadence": 30,
+        "last": "2025-12-08",
+        "history_amounts": [
+          "84.12",
+          "85.91",
+          "90.39",
+          "87.14",
+          "84.41"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "School fee payment",
+        "dir": "debit",
+        "amount": "159",
+        "cadence": 30,
+        "last": "2025-12-10",
+        "history_amounts": [
+          "159",
+          "159",
+          "159",
+          "159",
+          "159"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Credit card repayment",
+        "dir": "debit",
+        "amount": "84",
+        "cadence": 30,
+        "last": "2025-12-13",
+        "history_amounts": [
+          "84",
+          "84",
+          "84",
+          "84",
+          "84"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music subscription",
+        "dir": "debit",
+        "amount": "11",
+        "cadence": 30,
+        "last": "2025-12-13",
+        "history_amounts": [
+          "11",
+          "11",
+          "11",
+          "11",
+          "11"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Food delivery membership",
+        "dir": "debit",
+        "amount": "27",
+        "cadence": 30,
+        "last": "2025-12-15",
+        "history_amounts": [
+          "27",
+          "27",
+          "27",
+          "27",
+          "27"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "salary",
+        "desc": "First-job payroll",
+        "dir": "credit",
+        "amount": "1661",
+        "cadence": 30,
+        "last": "2025-12-15",
+        "history_amounts": [
+          "1661",
+          "1661"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "transport",
+        "desc": "Ride-hailing trip",
+        "dir": "debit",
+        "amount": "41.35",
+        "cadence": 21,
+        "last": "2025-12-31",
+        "history_amounts": [
+          "36.7",
+          "41.35",
+          "30.31"
+        ],
+        "projected_count": 4
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_16",
+    "pred": "205011.57",
+    "truth": "122500",
+    "error": "82511.57",
+    "binding": [
+      "2023-09-14",
+      "2023-09-11",
+      "2023-09-12",
+      "2023-09-13"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "173000",
+        "cadence": 30,
+        "last": "2023-07-15",
+        "history_amounts": [
+          "173000",
+          "173000",
+          "173000",
+          "173000",
+          "173000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "57100",
+        "cadence": 30,
+        "last": "2023-08-01",
+        "history_amounts": [
+          "57100",
+          "57100",
+          "57100",
+          "57100",
+          "57100"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Energy provider bill",
+        "dir": "debit",
+        "amount": "11512.87",
+        "cadence": 30,
+        "last": "2023-08-05",
+        "history_amounts": [
+          "9756.03",
+          "10586.37",
+          "9402.67",
+          "10012.92",
+          "11512.87"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Vehicle loan payment",
+        "dir": "debit",
+        "amount": "17750",
+        "cadence": 30,
+        "last": "2023-08-10",
+        "history_amounts": [
+          "17750",
+          "17750",
+          "17750",
+          "17750",
+          "17750"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Video streaming plan",
+        "dir": "debit",
+        "amount": "3510",
+        "cadence": 30,
+        "last": "2023-08-08",
+        "history_amounts": [
+          "3510",
+          "3510",
+          "3510",
+          "3510",
+          "3510"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "1055",
+        "cadence": 30,
+        "last": "2023-08-11",
+        "history_amounts": [
+          "1055",
+          "1055",
+          "1055",
+          "1055",
+          "1055"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "shopping",
+        "desc": "Clothing and household items",
+        "dir": "debit",
+        "amount": "10178.56",
+        "cadence": 30,
+        "last": "2023-08-11",
+        "history_amounts": [
+          "8486.21",
+          "8885",
+          "8414.47",
+          "9807.5",
+          "10178.56"
+        ],
+        "projected_count": 2
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2023-08-16",
+        "amount": "-100000",
+        "cat": "rent",
+        "id": "event_1442"
+      }
+    ]
+  },
+  {
+    "request": "request_17",
+    "pred": "276843.05",
+    "truth": "243849.58",
+    "error": "32993.47",
+    "binding": [
+      "2026-03-14",
+      "2026-03-13"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "206000",
+        "cadence": 30,
+        "last": "2026-02-15",
+        "history_amounts": [
+          "206000",
+          "206000",
+          "206000",
+          "206000",
+          "206000"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "rent",
+        "desc": "Apartment rent transfer",
+        "dir": "debit",
+        "amount": "49600",
+        "cadence": 30,
+        "last": "2026-02-02",
+        "history_amounts": [
+          "49600",
+          "49600",
+          "49600",
+          "49600",
+          "49600"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "10246.53",
+        "cadence": 30,
+        "last": "2026-02-06",
+        "history_amounts": [
+          "9481.13",
+          "9530.77",
+          "10246.53",
+          "9948.15",
+          "8487.15"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "Course tuition",
+        "dir": "debit",
+        "amount": "13660",
+        "cadence": 30,
+        "last": "2026-02-08",
+        "history_amounts": [
+          "13660",
+          "13660",
+          "13660",
+          "13660",
+          "13660"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Credit card repayment",
+        "dir": "debit",
+        "amount": "30200",
+        "cadence": 30,
+        "last": "2026-02-11",
+        "history_amounts": [
+          "30200",
+          "30200",
+          "30200",
+          "30200",
+          "30200"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music subscription",
+        "dir": "debit",
+        "amount": "2055",
+        "cadence": 30,
+        "last": "2026-02-11",
+        "history_amounts": [
+          "2055",
+          "2055",
+          "2055",
+          "2055",
+          "2055"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Food delivery membership",
+        "dir": "debit",
+        "amount": "1675",
+        "cadence": 30,
+        "last": "2026-02-13",
+        "history_amounts": [
+          "1675",
+          "1675",
+          "1675",
+          "1675",
+          "1675"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2026-03-15",
+        "amount": "206000",
+        "cat": "salary",
+        "id": "event_1546"
+      }
+    ]
+  },
+  {
+    "request": "request_18",
+    "pred": "662.19",
+    "truth": "462",
+    "error": "200.19",
+    "binding": [
+      "2026-07-11",
+      "2026-07-13",
+      "2026-07-12",
+      "2026-07-14"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "2310",
+        "cadence": 30,
+        "last": "2026-06-15",
+        "history_amounts": [
+          "2310",
+          "2310",
+          "2310",
+          "2310",
+          "2310"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "housing",
+        "desc": "Building maintenance payment",
+        "dir": "debit",
+        "amount": "167",
+        "cadence": 30,
+        "last": "2026-07-04",
+        "history_amounts": [
+          "167",
+          "167",
+          "167",
+          "167",
+          "167"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Energy provider bill",
+        "dir": "debit",
+        "amount": "125.4",
+        "cadence": 30,
+        "last": "2026-06-07",
+        "history_amounts": [
+          "100.59",
+          "101.24",
+          "125.4",
+          "121.67",
+          "107.43"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Household insurance",
+        "dir": "debit",
+        "amount": "68",
+        "cadence": 30,
+        "last": "2026-06-08",
+        "history_amounts": [
+          "68",
+          "68",
+          "68",
+          "68",
+          "68"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Clinic payment",
+        "dir": "debit",
+        "amount": "162.41",
+        "cadence": 30,
+        "last": "2026-06-11",
+        "history_amounts": [
+          "164.1",
+          "150.18",
+          "152.41",
+          "162.41",
+          "147.96"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Family streaming plan",
+        "dir": "debit",
+        "amount": "68",
+        "cadence": 30,
+        "last": "2026-06-10",
+        "history_amounts": [
+          "68",
+          "68",
+          "68",
+          "68",
+          "68"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_19",
+    "pred": "18835.02",
+    "truth": "28820",
+    "error": "-9984.98",
+    "binding": [
+      "2024-09-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "131000",
+        "cadence": 30,
+        "last": "2024-08-15",
+        "history_amounts": [
+          "131000",
+          "131000",
+          "131000",
+          "131000",
+          "131000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Residential rent payment",
+        "dir": "debit",
+        "amount": "36100",
+        "cadence": 30,
+        "last": "2024-08-04",
+        "history_amounts": [
+          "36100",
+          "36100",
+          "36100",
+          "36100",
+          "36100"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "6129.19",
+        "cadence": 30,
+        "last": "2024-08-08",
+        "history_amounts": [
+          "6141.28",
+          "5525.82",
+          "6029.9",
+          "5951.99",
+          "6129.19"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Loan repayment",
+        "dir": "debit",
+        "amount": "11850",
+        "cadence": 30,
+        "last": "2024-08-13",
+        "history_amounts": [
+          "11850",
+          "11850",
+          "11850",
+          "11850",
+          "11850"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Clinic payment",
+        "dir": "debit",
+        "amount": "8645.36",
+        "cadence": 30,
+        "last": "2024-08-12",
+        "history_amounts": [
+          "8946.09",
+          "9619.88",
+          "8335.2",
+          "8496.34",
+          "8645.36"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "family_support",
+        "desc": "Childcare contribution",
+        "dir": "debit",
+        "amount": "12650",
+        "cadence": 30,
+        "last": "2024-08-15",
+        "history_amounts": [
+          "12650",
+          "12650",
+          "12650",
+          "12650",
+          "12650"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Online backup subscription",
+        "dir": "debit",
+        "amount": "395",
+        "cadence": 30,
+        "last": "2024-08-14",
+        "history_amounts": [
+          "395",
+          "395",
+          "395",
+          "395",
+          "395"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Clothing and household items",
+        "dir": "debit",
+        "amount": "6069.58",
+        "cadence": 30,
+        "last": "2024-08-14",
+        "history_amounts": [
+          "6302.66",
+          "5593.2",
+          "6069.58",
+          "5772.78",
+          "5431.12"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Fresh food shop",
+        "dir": "debit",
+        "amount": "6070.85",
+        "cadence": 24,
+        "last": "2024-05-15",
+        "history_amounts": [
+          "6070.85",
+          "4056.71",
+          "3852.58"
+        ],
+        "projected_count": 4
+      }
+    ],
+    "explicit": []
+  },
+  {
+    "request": "request_20",
+    "pred": "15059.75",
+    "truth": "5400",
+    "error": "9659.75",
+    "binding": [
+      "2026-02-14",
+      "2026-02-13"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "108000",
+        "cadence": 30,
+        "last": "2026-01-15",
+        "history_amounts": [
+          "108000",
+          "108000",
+          "108000",
+          "108000",
+          "108000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "housing",
+        "desc": "Home association fee",
+        "dir": "debit",
+        "amount": "7950",
+        "cadence": 30,
+        "last": "2026-02-02",
+        "history_amounts": [
+          "7950",
+          "7950",
+          "7950",
+          "7950",
+          "7950"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "7769.87",
+        "cadence": 30,
+        "last": "2026-02-05",
+        "history_amounts": [
+          "7977.68",
+          "8058.75",
+          "6848.62",
+          "7551.74",
+          "7769.87"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Household insurance",
+        "dir": "debit",
+        "amount": "3290",
+        "cadence": 30,
+        "last": "2026-02-06",
+        "history_amounts": [
+          "3290",
+          "3290",
+          "3290",
+          "3290",
+          "3290"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "education",
+        "desc": "School fee payment",
+        "dir": "debit",
+        "amount": "8740",
+        "cadence": 30,
+        "last": "2026-01-07",
+        "history_amounts": [
+          "8740",
+          "8740",
+          "8740",
+          "8740",
+          "8740"
+        ],
+        "projected_count": 4
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Family healthcare expense",
+        "dir": "debit",
+        "amount": "6654.33",
+        "cadence": 30,
+        "last": "2026-01-09",
+        "history_amounts": [
+          "5968.18",
+          "6648.5",
+          "5907.73",
+          "6505.49",
+          "6654.33"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Cinema and events",
+        "dir": "debit",
+        "amount": "2115.92",
+        "cadence": 30,
+        "last": "2026-01-13",
+        "history_amounts": [
+          "2298.76",
+          "2279.67",
+          "2115.92",
+          "1949.86",
+          "2097.15"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Shared storage plan",
+        "dir": "debit",
+        "amount": "365",
+        "cadence": 30,
+        "last": "2026-01-11",
+        "history_amounts": [
+          "365",
+          "365",
+          "365",
+          "365",
+          "365"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2026-02-08",
+        "amount": "-4470",
+        "cat": "shopping",
+        "id": "event_1787"
+      },
+      {
+        "date": "2026-02-09",
+        "amount": "-704.05",
+        "cat": "utilities",
+        "id": "event_1786"
+      }
+    ]
+  },
+  {
+    "request": "request_21",
+    "pred": "1645.70",
+    "truth": "1543.35",
+    "error": "102.35",
+    "binding": [
+      "2026-04-12",
+      "2026-04-14",
+      "2026-04-13"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "2256",
+        "cadence": 30,
+        "last": "2026-03-15",
+        "history_amounts": [
+          "2256",
+          "2256",
+          "2256",
+          "2256",
+          "2256"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "rent",
+        "desc": "Residential rent payment",
+        "dir": "debit",
+        "amount": "718.8",
+        "cadence": 30,
+        "last": "2026-04-02",
+        "history_amounts": [
+          "718.8",
+          "718.8",
+          "718.8",
+          "718.8",
+          "718.8"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Municipal utilities",
+        "dir": "debit",
+        "amount": "124.08",
+        "cadence": 30,
+        "last": "2026-03-06",
+        "history_amounts": [
+          "115.31",
+          "123.72",
+          "120.59",
+          "122.18",
+          "124.08"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Online backup subscription",
+        "dir": "debit",
+        "amount": "11",
+        "cadence": 30,
+        "last": "2026-03-12",
+        "history_amounts": [
+          "11",
+          "11",
+          "11",
+          "11",
+          "11"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Streaming subscription",
+        "dir": "debit",
+        "amount": "47",
+        "cadence": 30,
+        "last": "2026-03-09",
+        "history_amounts": [
+          "47",
+          "47",
+          "47",
+          "47",
+          "47"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Monthly shopping spend",
+        "dir": "debit",
+        "amount": "126.38",
+        "cadence": 30,
+        "last": "2026-03-12",
+        "history_amounts": [
+          "133.38",
+          "115.86",
+          "120.74",
+          "115.71",
+          "126.38"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Weekly produce market",
+        "dir": "debit",
+        "amount": "104.19",
+        "cadence": 30,
+        "last": "2026-02-05",
+        "history_amounts": [
+          "92.12",
+          "104.19",
+          "84.7",
+          "85.9"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Household groceries",
+        "dir": "debit",
+        "amount": "95.62",
+        "cadence": 55,
+        "last": "2026-03-07",
+        "history_amounts": [
+          "95.62",
+          "79",
+          "70.98"
+        ],
+        "projected_count": 2
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2026-04-05",
+        "amount": "-53",
+        "cat": "transport",
+        "id": "event_1857"
+      },
+      {
+        "date": "2026-04-15",
+        "amount": "2256",
+        "cat": "salary",
+        "id": "event_1858"
+      }
+    ]
+  },
+  {
+    "request": "request_22",
+    "pred": "478.19",
+    "truth": "475.46",
+    "error": "2.73",
+    "binding": [
+      "2024-12-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "616",
+        "cadence": 30,
+        "last": "2024-11-15",
+        "history_amounts": [
+          "616",
+          "616",
+          "616",
+          "616",
+          "616"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Apartment rent transfer",
+        "dir": "debit",
+        "amount": "178.2",
+        "cadence": 30,
+        "last": "2024-12-03",
+        "history_amounts": [
+          "178.2",
+          "178.2",
+          "178.2",
+          "178.2",
+          "178.2"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Electricity and water bill",
+        "dir": "debit",
+        "amount": "31.52",
+        "cadence": 30,
+        "last": "2024-11-07",
+        "history_amounts": [
+          "32.53",
+          "33.73",
+          "31.52",
+          "27.68",
+          "27.34"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "music_subscription",
+        "desc": "Music service subscription",
+        "dir": "debit",
+        "amount": "6",
+        "cadence": 30,
+        "last": "2024-11-12",
+        "history_amounts": [
+          "6",
+          "6",
+          "6",
+          "6",
+          "6"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "delivery_membership",
+        "desc": "Food delivery membership",
+        "dir": "debit",
+        "amount": "5",
+        "cadence": 30,
+        "last": "2024-11-14",
+        "history_amounts": [
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "gym",
+        "desc": "Gym membership",
+        "dir": "debit",
+        "amount": "17",
+        "cadence": 30,
+        "last": "2024-11-11",
+        "history_amounts": [
+          "17",
+          "17",
+          "17",
+          "17",
+          "17"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Weekend entertainment",
+        "dir": "debit",
+        "amount": "23.29",
+        "cadence": 30,
+        "last": "2024-11-15",
+        "history_amounts": [
+          "19.64",
+          "18.94",
+          "23.29",
+          "22.03",
+          "20.43"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Neighbourhood grocer",
+        "dir": "debit",
+        "amount": "28.46",
+        "cadence": 18,
+        "last": "2024-10-16",
+        "history_amounts": [
+          "28.46",
+          "19.54",
+          "23.94"
+        ],
+        "projected_count": 5
+      },
+      {
+        "cat": "transport",
+        "desc": "Commuter pass",
+        "dir": "debit",
+        "amount": "12.7",
+        "cadence": 30,
+        "last": "2024-08-22",
+        "history_amounts": [
+          "11.63",
+          "12.7",
+          "10.72"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2024-12-08",
+        "amount": "-43",
+        "cat": "shopping",
+        "id": "event_1961"
+      }
+    ]
+  },
+  {
+    "request": "request_23",
+    "pred": "8681.54",
+    "truth": "9152",
+    "error": "-470.46",
+    "binding": [
+      "2025-05-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "45760",
+        "cadence": 30,
+        "last": "2025-04-15",
+        "history_amounts": [
+          "45760",
+          "45760",
+          "45760",
+          "45760",
+          "45760"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Shared housing rent",
+        "dir": "debit",
+        "amount": "15312",
+        "cadence": 30,
+        "last": "2025-05-04",
+        "history_amounts": [
+          "15312",
+          "15312",
+          "15312",
+          "15312",
+          "15312"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Electricity bill",
+        "dir": "debit",
+        "amount": "2915.67",
+        "cadence": 30,
+        "last": "2025-04-08",
+        "history_amounts": [
+          "2877.85",
+          "2484.32",
+          "2915.67",
+          "2813.94",
+          "2680.15"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "debt_repayment",
+        "desc": "Education loan instalment",
+        "dir": "debit",
+        "amount": "5852",
+        "cadence": 30,
+        "last": "2025-04-13",
+        "history_amounts": [
+          "5852",
+          "5852",
+          "5852",
+          "5852",
+          "5852"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "healthcare",
+        "desc": "Clinic payment",
+        "dir": "debit",
+        "amount": "1439.91",
+        "cadence": 30,
+        "last": "2025-04-12",
+        "history_amounts": [
+          "1341.05",
+          "1331.22",
+          "1439.91",
+          "1317.68",
+          "1377.89"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "family_support",
+        "desc": "Childcare contribution",
+        "dir": "debit",
+        "amount": "4270.2",
+        "cadence": 30,
+        "last": "2025-04-15",
+        "history_amounts": [
+          "4270.2",
+          "4270.2",
+          "4270.2",
+          "4270.2",
+          "4270.2"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "295.9",
+        "cadence": 30,
+        "last": "2025-04-14",
+        "history_amounts": [
+          "295.9",
+          "295.9",
+          "295.9",
+          "295.9",
+          "295.9"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Personal shopping",
+        "dir": "debit",
+        "amount": "1389.39",
+        "cadence": 30,
+        "last": "2025-04-14",
+        "history_amounts": [
+          "1279.39",
+          "1396.33",
+          "1389.39",
+          "1232.23",
+          "1281.33"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2025-05-11",
+        "amount": "-1553.2",
+        "cat": "healthcare",
+        "id": "event_2042"
+      }
+    ]
+  },
+  {
+    "request": "request_24",
+    "pred": "16560.74",
+    "truth": "13420",
+    "error": "3140.74",
+    "binding": [
+      "2026-01-14",
+      "2026-01-13"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "Payroll credit",
+        "dir": "credit",
+        "amount": "61000",
+        "cadence": 30,
+        "last": "2025-12-15",
+        "history_amounts": [
+          "61000",
+          "61000",
+          "61000",
+          "61000",
+          "61000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "rent",
+        "desc": "Landlord standing order",
+        "dir": "debit",
+        "amount": "18600",
+        "cadence": 30,
+        "last": "2026-01-01",
+        "history_amounts": [
+          "18600",
+          "18600",
+          "18600",
+          "18600",
+          "18600"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Household utility payment",
+        "dir": "debit",
+        "amount": "3490.5",
+        "cadence": 30,
+        "last": "2025-12-05",
+        "history_amounts": [
+          "3049.81",
+          "3226.12",
+          "3417.7",
+          "3335.41",
+          "3490.5"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Insurance policy payment",
+        "dir": "debit",
+        "amount": "2510",
+        "cadence": 30,
+        "last": "2025-12-06",
+        "history_amounts": [
+          "2510",
+          "2510",
+          "2510",
+          "2510",
+          "2510"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Online backup subscription",
+        "dir": "debit",
+        "amount": "355",
+        "cadence": 30,
+        "last": "2025-12-11",
+        "history_amounts": [
+          "355",
+          "355",
+          "355",
+          "355",
+          "355"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Family streaming plan",
+        "dir": "debit",
+        "amount": "1200",
+        "cadence": 30,
+        "last": "2025-12-08",
+        "history_amounts": [
+          "1200",
+          "1200",
+          "1200",
+          "1200",
+          "1200"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Monthly shopping spend",
+        "dir": "debit",
+        "amount": "2680.78",
+        "cadence": 30,
+        "last": "2025-12-11",
+        "history_amounts": [
+          "2409.82",
+          "2514.9",
+          "2680.78",
+          "2398.76",
+          "2564"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Local event tickets",
+        "dir": "debit",
+        "amount": "1916.16",
+        "cadence": 30,
+        "last": "2025-12-13",
+        "history_amounts": [
+          "1870.6",
+          "2124.72",
+          "1916.16",
+          "1845.75",
+          "1896.25"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "transport",
+        "desc": "Local taxi",
+        "dir": "debit",
+        "amount": "1760.99",
+        "cadence": 48,
+        "last": "2025-10-24",
+        "history_amounts": [
+          "1760.99",
+          "1370.25",
+          "1731.13"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "transport",
+        "desc": "Ride-hailing trip",
+        "dir": "debit",
+        "amount": "1750.91",
+        "cadence": 7,
+        "last": "2025-10-14",
+        "history_amounts": [
+          "1576.88",
+          "1119.08",
+          "1393.89",
+          "1750.91",
+          "1069.31"
+        ],
+        "projected_count": 13
+      },
+      {
+        "cat": "dining",
+        "desc": "Lunch with colleagues",
+        "dir": "debit",
+        "amount": "2137.71",
+        "cadence": 30,
+        "last": "2025-11-01",
+        "history_amounts": [
+          "2046.83",
+          "2137.71",
+          "1818.76"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "dining",
+        "desc": "Family dinner",
+        "dir": "debit",
+        "amount": "2151.71",
+        "cadence": 30,
+        "last": "2025-12-27",
+        "history_amounts": [
+          "1942.46",
+          "1345.87",
+          "2151.71"
+        ],
+        "projected_count": 3
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2026-01-11",
+        "amount": "-1830",
+        "cat": "insurance",
+        "id": "event_2166"
+      }
+    ]
+  },
+  {
+    "request": "request_25",
+    "pred": "1165150.85",
+    "truth": "1425000",
+    "error": "-259849.15",
+    "binding": [
+      "2024-03-15"
+    ],
+    "series": [
+      {
+        "cat": "salary",
+        "desc": "International employer payroll",
+        "dir": "credit",
+        "amount": "1800",
+        "cadence": 30,
+        "last": "2024-02-15",
+        "history_amounts": [
+          "1800",
+          "1800",
+          "1800",
+          "1800",
+          "1800"
+        ],
+        "projected_count": 2
+      },
+      {
+        "cat": "rent",
+        "desc": "Monthly rent",
+        "dir": "debit",
+        "amount": "6954000",
+        "cadence": 30,
+        "last": "2024-03-02",
+        "history_amounts": [
+          "6954000",
+          "6954000",
+          "6954000",
+          "6954000",
+          "6954000"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "utilities",
+        "desc": "Household utility payment",
+        "dir": "debit",
+        "amount": "1341541.39",
+        "cadence": 30,
+        "last": "2024-02-06",
+        "history_amounts": [
+          "1338903.44",
+          "1401205.21",
+          "1334719.89",
+          "1341541.39",
+          "1201903.67"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "insurance",
+        "desc": "Insurance policy payment",
+        "dir": "debit",
+        "amount": "904400",
+        "cadence": 30,
+        "last": "2024-02-07",
+        "history_amounts": [
+          "904400",
+          "904400",
+          "904400",
+          "904400",
+          "904400"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "cloud_storage",
+        "desc": "Cloud storage plan",
+        "dir": "debit",
+        "amount": "126350",
+        "cadence": 30,
+        "last": "2024-02-12",
+        "history_amounts": [
+          "126350",
+          "126350",
+          "126350",
+          "126350",
+          "126350"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "streaming",
+        "desc": "Video streaming plan",
+        "dir": "debit",
+        "amount": "573800",
+        "cadence": 30,
+        "last": "2024-02-09",
+        "history_amounts": [
+          "573800",
+          "573800",
+          "573800",
+          "573800",
+          "573800"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "shopping",
+        "desc": "Monthly shopping spend",
+        "dir": "debit",
+        "amount": "1170271.29",
+        "cadence": 30,
+        "last": "2024-02-12",
+        "history_amounts": [
+          "966785.96",
+          "1054608.5",
+          "1000693.22",
+          "1102784.74",
+          "1170271.29"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "entertainment",
+        "desc": "Games and recreation",
+        "dir": "debit",
+        "amount": "504697.37",
+        "cadence": 30,
+        "last": "2024-02-14",
+        "history_amounts": [
+          "451681.59",
+          "415734.51",
+          "499510.22",
+          "504697.37",
+          "426338.4"
+        ],
+        "projected_count": 3
+      },
+      {
+        "cat": "groceries",
+        "desc": "Neighbourhood grocer",
+        "dir": "debit",
+        "amount": "1101344.82",
+        "cadence": 7,
+        "last": "2023-12-20",
+        "history_amounts": [
+          "893559.78",
+          "1101344.82",
+          "876032.86",
+          "917586.64"
+        ],
+        "projected_count": 13
+      },
+      {
+        "cat": "transport",
+        "desc": "Parking and tolls",
+        "dir": "debit",
+        "amount": "695049.46",
+        "cadence": 20,
+        "last": "2023-12-26",
+        "history_amounts": [
+          "724399.08",
+          "617815.52",
+          "617984.73",
+          "695049.46",
+          "639058"
+        ],
+        "projected_count": 5
+      }
+    ],
+    "explicit": [
+      {
+        "date": "2024-03-15",
+        "amount": "28499994.00",
+        "cat": "salary",
+        "id": "event_2288"
+      }
+    ]
+  }
+]

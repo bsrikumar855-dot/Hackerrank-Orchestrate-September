@@ -1,0 +1,603 @@
+[
+  {
+    "request": "request_36",
+    "source": "message_26",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "2988",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_26 to salary on 2026-07-15: amount now 2988",
+      "applied amendment from message_26 to salary on 2026-08-15: amount now 2988",
+      "applied amendment from message_26 to salary on 2026-09-15: amount now 2988"
+    ]
+  },
+  {
+    "request": "request_42",
+    "source": "message_30",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "148000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_30 to salary on 2026-01-15: amount now 148000",
+      "applied amendment from message_30 to salary on 2026-02-15: amount now 148000",
+      "applied amendment from message_30 to salary on 2026-03-15: amount now 148000"
+    ]
+  },
+  {
+    "request": "request_45",
+    "source": "message_33",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "17290000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_33 to salary on 2026-07-15: amount now 17290000",
+      "applied amendment from message_33 to salary on 2026-08-15: amount now 17290000",
+      "applied amendment from message_33 to salary on 2026-09-15: amount now 17290000"
+    ]
+  },
+  {
+    "request": "request_50",
+    "source": "message_37",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "126000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_37 to salary on 2025-08-15: amount now 126000",
+      "applied amendment from message_37 to salary on 2025-09-15: amount now 126000",
+      "applied amendment from message_37 to salary on 2025-10-15: amount now 126000"
+    ]
+  },
+  {
+    "request": "request_54",
+    "source": "message_40",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "42460",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_40 to salary on 2026-07-15: amount now 42460",
+      "applied amendment from message_40 to salary on 2026-08-15: amount now 42460",
+      "applied amendment from message_40 to salary on 2026-09-15: amount now 42460"
+    ]
+  },
+  {
+    "request": "request_58",
+    "source": "message_42",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "25840000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_42 to salary on 2024-12-15: amount now 25840000",
+      "applied amendment from message_42 to salary on 2025-01-15: amount now 25840000",
+      "applied amendment from message_42 to salary on 2025-02-15: amount now 25840000"
+    ]
+  },
+  {
+    "request": "request_60",
+    "source": "message_44",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "530.4",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_44 to salary on 2026-01-15: amount now 530.4"
+    ]
+  },
+  {
+    "request": "request_69",
+    "source": "message_51",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_51 to rent on 2026-02-02: amount now 434.896",
+      "applied amendment from message_51 to rent on 2026-03-02: amount now 434.896",
+      "applied amendment from message_51 to rent on 2026-04-02: amount now 434.896"
+    ]
+  },
+  {
+    "request": "request_73",
+    "source": "message_55",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_55 to rent on 2023-02-02: amount now 41776",
+      "applied amendment from message_55 to rent on 2023-03-02: amount now 41776",
+      "applied amendment from message_55 to rent on 2023-04-02: amount now 41776"
+    ]
+  },
+  {
+    "request": "request_76",
+    "source": "message_58",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "3072",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_58 to salary on 2024-06-15: amount now 3072",
+      "applied amendment from message_58 to salary on 2024-07-15: amount now 3072",
+      "applied amendment from message_58 to salary on 2024-08-15: amount now 3072"
+    ]
+  },
+  {
+    "request": "request_80",
+    "source": "message_60",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "158000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_60 to salary on 2025-02-15: amount now 158000",
+      "applied amendment from message_60 to salary on 2025-03-15: amount now 158000",
+      "applied amendment from message_60 to salary on 2025-04-15: amount now 158000"
+    ]
+  },
+  {
+    "request": "request_81",
+    "source": "message_61",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_61 to rent on 2026-08-02: amount now 1037.568",
+      "applied amendment from message_61 to rent on 2026-09-02: amount now 1037.568"
+    ]
+  },
+  {
+    "request": "request_92",
+    "source": "message_70",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "49280",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_70 to salary on 2025-02-15: amount now 49280",
+      "applied amendment from message_70 to salary on 2025-03-15: amount now 49280",
+      "applied amendment from message_70 to salary on 2025-04-15: amount now 49280"
+    ]
+  },
+  {
+    "request": "request_103",
+    "source": "message_77",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "164880",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_77 to salary on 2024-09-15: amount now 164880"
+    ]
+  },
+  {
+    "request": "request_104",
+    "source": "message_78",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "35860",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_78 to salary on 2025-02-15: amount now 35860",
+      "applied amendment from message_78 to salary on 2025-03-15: amount now 35860",
+      "applied amendment from message_78 to salary on 2025-04-15: amount now 35860"
+    ]
+  },
+  {
+    "request": "request_108",
+    "source": "message_82",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "33440",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_82 to salary on 2026-07-15: amount now 33440",
+      "applied amendment from message_82 to salary on 2026-08-15: amount now 33440",
+      "applied amendment from message_82 to salary on 2026-09-15: amount now 33440"
+    ]
+  },
+  {
+    "request": "request_114",
+    "source": "message_87",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "148200",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_87 to salary on 2026-01-15: amount now 148200"
+    ]
+  },
+  {
+    "request": "request_117",
+    "source": "message_89",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "1188",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_89 to salary on 2026-07-15: amount now 1188",
+      "applied amendment from message_89 to salary on 2026-08-15: amount now 1188",
+      "applied amendment from message_89 to salary on 2026-09-15: amount now 1188"
+    ]
+  },
+  {
+    "request": "request_132",
+    "source": "message_102",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "1193.4",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_102 to salary on 2026-01-15: amount now 1193.4"
+    ]
+  },
+  {
+    "request": "request_135",
+    "source": "message_104",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "828",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_104 to salary on 2026-07-15: amount now 828",
+      "applied amendment from message_104 to salary on 2026-08-15: amount now 828",
+      "applied amendment from message_104 to salary on 2026-09-15: amount now 828"
+    ]
+  },
+  {
+    "request": "request_137",
+    "source": "message_105",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_105 to rent on 2025-12-02: amount now 41776",
+      "applied amendment from message_105 to rent on 2026-01-02: amount now 41776",
+      "applied amendment from message_105 to rent on 2026-02-02: amount now 41776"
+    ]
+  },
+  {
+    "request": "request_150",
+    "source": "message_115",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": "2026-01-01",
+    "new": "893.75",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_115 to salary on 2026-01-15: amount now 893.75"
+    ]
+  },
+  {
+    "request": "request_154",
+    "source": "message_119",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2024-11-25",
+    "new": "1628",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_119 to salary on 2024-12-15: amount now 1628",
+      "applied amendment from message_119 to salary on 2025-01-15: amount now 1628",
+      "applied amendment from message_119 to salary on 2025-02-15: amount now 1628"
+    ]
+  },
+  {
+    "request": "request_162",
+    "source": "message_126",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "29070000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_126 to salary on 2026-07-15: amount now 29070000",
+      "applied amendment from message_126 to salary on 2026-08-15: amount now 29070000",
+      "applied amendment from message_126 to salary on 2026-09-15: amount now 29070000"
+    ]
+  },
+  {
+    "request": "request_164",
+    "source": "message_128",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "44270000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_128 to salary on 2025-02-15: amount now 44270000",
+      "applied amendment from message_128 to salary on 2025-03-15: amount now 44270000",
+      "applied amendment from message_128 to salary on 2025-04-15: amount now 44270000"
+    ]
+  },
+  {
+    "request": "request_168",
+    "source": "message_132",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "137150",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_132 to salary on 2026-01-15: amount now 137150"
+    ]
+  },
+  {
+    "request": "request_176",
+    "source": "message_139",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "847",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_139 to salary on 2025-02-15: amount now 847",
+      "applied amendment from message_139 to salary on 2025-03-15: amount now 847",
+      "applied amendment from message_139 to salary on 2025-04-15: amount now 847"
+    ]
+  },
+  {
+    "request": "request_177",
+    "source": "message_140",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "1731.6",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_140 to salary on 2026-01-15: amount now 1731.6"
+    ]
+  },
+  {
+    "request": "request_185",
+    "source": "message_147",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_147 to rent on 2025-12-02: amount now 505.12",
+      "applied amendment from message_147 to rent on 2026-01-02: amount now 505.12",
+      "applied amendment from message_147 to rent on 2026-02-02: amount now 505.12"
+    ]
+  },
+  {
+    "request": "request_186",
+    "source": "message_148",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "31889",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_148 to salary on 2026-01-15: amount now 31889"
+    ]
+  },
+  {
+    "request": "request_189",
+    "source": "message_151",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "627",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_151 to salary on 2026-07-15: amount now 627",
+      "applied amendment from message_151 to salary on 2026-08-15: amount now 627",
+      "applied amendment from message_151 to salary on 2026-09-15: amount now 627"
+    ]
+  },
+  {
+    "request": "request_193",
+    "source": "message_153",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "1750.32",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_153 to salary on 2024-03-15: amount now 1750.32"
+    ]
+  },
+  {
+    "request": "request_195",
+    "source": "message_155",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "1222.65",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_155 to salary on 2026-01-15: amount now 1222.65"
+    ]
+  },
+  {
+    "request": "request_216",
+    "source": "message_169",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2026-07-15",
+    "new": "2424",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_169 to salary on 2026-07-15: amount now 2424",
+      "applied amendment from message_169 to salary on 2026-08-15: amount now 2424",
+      "applied amendment from message_169 to salary on 2026-09-15: amount now 2424"
+    ]
+  },
+  {
+    "request": "request_225",
+    "source": "message_175",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_175 to rent on 2026-08-02: amount now 7107520",
+      "applied amendment from message_175 to rent on 2026-09-02: amount now 7107520",
+      "applied amendment from message_175 to rent on 2026-10-02: amount now 7107520"
+    ]
+  },
+  {
+    "request": "request_230",
+    "source": "message_180",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2025-08-05",
+    "new": "2827",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_180 to salary on 2025-08-15: amount now 2827",
+      "applied amendment from message_180 to salary on 2025-09-15: amount now 2827",
+      "applied amendment from message_180 to salary on 2025-10-15: amount now 2827"
+    ]
+  },
+  {
+    "request": "request_238",
+    "source": "message_187",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2024-11-26",
+    "new": "912",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_187 to salary on 2024-12-15: amount now 912",
+      "applied amendment from message_187 to salary on 2025-01-15: amount now 912",
+      "applied amendment from message_187 to salary on 2025-02-15: amount now 912"
+    ]
+  },
+  {
+    "request": "request_247",
+    "source": "message_193",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": "2024-08-30",
+    "new": "1528.56",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_193 to salary on 2024-09-15: amount now 1528.56"
+    ]
+  },
+  {
+    "request": "request_249",
+    "source": "message_195",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": "2025-12-27",
+    "new": "702",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_195 to salary on 2026-01-15: amount now 702"
+    ]
+  },
+  {
+    "request": "request_262",
+    "source": "message_203",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2024-11-23",
+    "new": "48260000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_203 to salary on 2024-12-15: amount now 48260000",
+      "applied amendment from message_203 to salary on 2025-01-15: amount now 48260000",
+      "applied amendment from message_203 to salary on 2025-02-15: amount now 48260000"
+    ]
+  },
+  {
+    "request": "request_02",
+    "source": "message_01",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": "2025-08-15",
+    "new": "42750000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_01 to salary on 2025-08-15: amount now 42750000",
+      "applied amendment from message_01 to salary on 2025-09-15: amount now 42750000",
+      "applied amendment from message_01 to salary on 2025-10-15: amount now 42750000"
+    ]
+  },
+  {
+    "request": "request_06",
+    "source": "message_04",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "1037.52",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_04 to salary on 2026-01-15: amount now 1037.52"
+    ]
+  },
+  {
+    "request": "request_08",
+    "source": "message_06",
+    "kind": "income_change",
+    "scope": "next_occurrence_only",
+    "effective": null,
+    "new": "1422.85",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_06 to salary on 2025-02-15: amount now 1422.85"
+    ]
+  },
+  {
+    "request": "request_11",
+    "source": "message_08",
+    "kind": "income_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "38760000",
+    "pct": "None",
+    "applied": [
+      "applied amendment from message_08 to salary on 2025-05-15: amount now 38760000",
+      "applied amendment from message_08 to salary on 2025-06-15: amount now 38760000",
+      "applied amendment from message_08 to salary on 2025-07-15: amount now 38760000"
+    ]
+  },
+  {
+    "request": "request_16",
+    "source": "message_12",
+    "kind": "expense_change",
+    "scope": "ongoing",
+    "effective": null,
+    "new": "None",
+    "pct": "12",
+    "applied": [
+      "applied amendment from message_12 to rent on 2023-09-01: amount now 63952",
+      "applied amendment from message_12 to rent on 2023-10-01: amount now 63952",
+      "applied amendment from message_12 to rent on 2023-11-01: amount now 63952"
+    ]
+  }
+]

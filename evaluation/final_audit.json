@@ -1,0 +1,404 @@
+{
+  "changed_rows": [],
+  "invalid_sources": [],
+  "vision_metadata_issues": [],
+  "spending_search_opportunities": [],
+  "rejection_with_full_capacity": [
+    "request_71",
+    "request_76",
+    "request_79",
+    "request_80",
+    "request_108",
+    "request_119",
+    "request_176",
+    "request_263"
+  ],
+  "fx_exclusions": [],
+  "sample_mismatches": [
+    {
+      "request": "request_02",
+      "fields": {
+        "amount_safe_to_pay": [
+          "16237972.2",
+          "17229139.2"
+        ]
+      }
+    },
+    {
+      "request": "request_03",
+      "fields": {
+        "amount_safe_to_pay": [
+          "1050071.39",
+          "873000"
+        ]
+      }
+    },
+    {
+      "request": "request_04",
+      "fields": {
+        "amount_safe_to_pay": [
+          "12683966.41",
+          "8401800"
+        ]
+      }
+    },
+    {
+      "request": "request_05",
+      "fields": {
+        "amount_safe_to_pay": [
+          "7006.21",
+          "737"
+        ]
+      }
+    },
+    {
+      "request": "request_06",
+      "fields": {
+        "amount_safe_to_pay": [
+          "598.01",
+          "603.3"
+        ],
+        "affordability_status": [
+          "not_affordable",
+          "affordable_with_plan"
+        ],
+        "recommended_payment_method": [
+          "not_recommended",
+          "full_payment"
+        ],
+        "payment_plan": [
+          "none",
+          "2026-01-03:620.40"
+        ],
+        "spending_changes_needed": [
+          "none",
+          "stop:event_476"
+        ]
+      }
+    },
+    {
+      "request": "request_07",
+      "fields": {
+        "amount_safe_to_pay": [
+          "98080.53",
+          "87170.56"
+        ]
+      }
+    },
+    {
+      "request": "request_08",
+      "fields": {
+        "amount_safe_to_pay": [
+          "432.57",
+          "284.57"
+        ]
+      }
+    },
+    {
+      "request": "request_10",
+      "fields": {
+        "amount_safe_to_pay": [
+          "198118.63",
+          "12700"
+        ]
+      }
+    },
+    {
+      "request": "request_11",
+      "fields": {
+        "amount_safe_to_pay": [
+          "13110000",
+          "12510645"
+        ],
+        "affordability_status": [
+          "affordable_now",
+          "affordable_with_plan"
+        ],
+        "earliest_date_for_full_payment": [
+          "2025-05-03",
+          "2025-07-15"
+        ],
+        "spending_changes_needed": [
+          "none",
+          "reduce_to:event_989:665950"
+        ]
+      }
+    },
+    {
+      "request": "request_13",
+      "fields": {
+        "amount_safe_to_pay": [
+          "941.6",
+          "433.4"
+        ],
+        "affordability_status": [
+          "affordable_now",
+          "affordable_later"
+        ],
+        "recommended_payment_method": [
+          "full_payment",
+          "wait"
+        ],
+        "payment_plan": [
+          "2024-03-07:941.60",
+          "2024-05-15:941.60"
+        ],
+        "earliest_date_for_full_payment": [
+          "2024-03-07",
+          "2024-05-15"
+        ]
+      }
+    },
+    {
+      "request": "request_14",
+      "fields": {
+        "amount_safe_to_pay": [
+          "645.94",
+          "597.74"
+        ]
+      }
+    },
+    {
+      "request": "request_15",
+      "fields": {
+        "amount_safe_to_pay": [
+          "198.66",
+          "83.05"
+        ]
+      }
+    },
+    {
+      "request": "request_17",
+      "fields": {
+        "amount_safe_to_pay": [
+          "274600",
+          "243849.58"
+        ],
+        "earliest_date_for_full_payment": [
+          "2026-03-01",
+          "2026-03-15"
+        ]
+      }
+    },
+    {
+      "request": "request_18",
+      "fields": {
+        "amount_safe_to_pay": [
+          "662.19",
+          "462"
+        ],
+        "payment_plan": [
+          "2026-08-15:3246.10",
+          "2026-09-15:3246.10"
+        ],
+        "earliest_date_for_full_payment": [
+          "2026-08-15",
+          "2026-09-15"
+        ]
+      }
+    },
+    {
+      "request": "request_19",
+      "fields": {
+        "amount_safe_to_pay": [
+          "18835.02",
+          "28820"
+        ],
+        "payment_plan": [
+          "2024-09-04:18835.02|2024-09-15:20824.98",
+          "2024-09-04:28820|2024-09-15:10840"
+        ]
+      }
+    },
+    {
+      "request": "request_20",
+      "fields": {
+        "amount_safe_to_pay": [
+          "15059.75",
+          "5400"
+        ]
+      }
+    },
+    {
+      "request": "request_21",
+      "fields": {
+        "amount_safe_to_pay": [
+          "1574.4",
+          "1543.35"
+        ],
+        "affordability_status": [
+          "affordable_now",
+          "affordable_with_plan"
+        ],
+        "earliest_date_for_full_payment": [
+          "2026-04-03",
+          "2026-04-15"
+        ],
+        "spending_changes_needed": [
+          "none",
+          "stop:event_1815|reduce_to:event_1816:23.50"
+        ]
+      }
+    },
+    {
+      "request": "request_22",
+      "fields": {
+        "amount_safe_to_pay": [
+          "478.19",
+          "475.46"
+        ],
+        "earliest_date_for_full_payment": [
+          "2024-12-15",
+          "2025-01-15"
+        ]
+      }
+    },
+    {
+      "request": "request_23",
+      "fields": {
+        "amount_safe_to_pay": [
+          "8681.54",
+          "9152"
+        ]
+      }
+    },
+    {
+      "request": "request_24",
+      "fields": {
+        "amount_safe_to_pay": [
+          "16560.74",
+          "13420"
+        ]
+      }
+    },
+    {
+      "request": "request_25",
+      "fields": {
+        "amount_safe_to_pay": [
+          "1165150.85",
+          "1425000"
+        ]
+      }
+    }
+  ],
+  "worst_amount_traces": [
+    {
+      "request": "request_04",
+      "minimum": "43370566.41",
+      "binding_dates": [
+        "2024-06-15"
+      ],
+      "implied_reference_minimum": "39088400",
+      "detected_essential_series": [
+        [
+          "groceries",
+          "Weekly produce market"
+        ]
+      ]
+    },
+    {
+      "request": "request_05",
+      "minimum": "20106.21",
+      "binding_dates": [
+        "2026-02-02",
+        "2026-02-03",
+        "2026-02-04"
+      ],
+      "implied_reference_minimum": "13837",
+      "detected_essential_series": []
+    },
+    {
+      "request": "request_08",
+      "minimum": "1232.57",
+      "binding_dates": [
+        "2025-02-12",
+        "2025-02-13",
+        "2025-02-14"
+      ],
+      "implied_reference_minimum": "1084.57",
+      "detected_essential_series": []
+    },
+    {
+      "request": "request_10",
+      "minimum": "423518.63",
+      "binding_dates": [
+        "2025-03-03",
+        "2025-03-04",
+        "2025-03-05",
+        "2025-03-06"
+      ],
+      "implied_reference_minimum": "238100",
+      "detected_essential_series": [
+        [
+          "transport",
+          "Parking and tolls"
+        ]
+      ]
+    },
+    {
+      "request": "request_13",
+      "minimum": "2640.62",
+      "binding_dates": [
+        "2024-03-14"
+      ],
+      "implied_reference_minimum": "1733.4",
+      "detected_essential_series": []
+    },
+    {
+      "request": "request_15",
+      "minimum": "1398.66",
+      "binding_dates": [
+        "2026-01-15"
+      ],
+      "implied_reference_minimum": "1283.05",
+      "detected_essential_series": [
+        [
+          "transport",
+          "Ride-hailing trip"
+        ]
+      ]
+    },
+    {
+      "request": "request_18",
+      "minimum": "2062.19",
+      "binding_dates": [
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14"
+      ],
+      "implied_reference_minimum": "1862",
+      "detected_essential_series": []
+    },
+    {
+      "request": "request_20",
+      "minimum": "79559.75",
+      "binding_dates": [
+        "2026-02-13",
+        "2026-02-14"
+      ],
+      "implied_reference_minimum": "69900",
+      "detected_essential_series": []
+    }
+  ],
+  "payment_safety_failures": [],
+  "installment_change_details": [
+    {
+      "request": "request_267",
+      "minimum": "1652.16",
+      "required": "1500",
+      "plan": "2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33",
+      "changes": "stop:event_24573"
+    }
+  ],
+  "rows": 250,
+  "output_md5": "882b333a24692786deb8021644b8350f",
+  "replay_md5": "882b333a24692786deb8021644b8350f",
+  "methods": {
+    "full_payment": 78,
+    "wait": 52,
+    "not_recommended": 49,
+    "installments": 60,
+    "partial_payment": 11
+  }
+}

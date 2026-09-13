@@ -1,0 +1,1733 @@
+{
+  "amendments": {
+    "user_02": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2025-08-15",
+          "kind": "income_change",
+          "new_amount": 42750000,
+          "reason": "gaji bulanan naik menjadi IDR 42750000 mulai 2025-08-15",
+          "scope": "ongoing",
+          "source_message_id": "message_01"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_03": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_04": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_06": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 1037.52,
+          "reason": "temporary monthly pay is EUR 1037.52 for the next payroll",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_04"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_07": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_08": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 1422.85,
+          "reason": "next salary is reduced to EUR 1422.85",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_06"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_10": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "next QuickCrew payout is still pending and earnings can change until payout is closed",
+          "scope": "ongoing",
+          "source_message_id": "message_07"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_101": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_102": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_103": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 164880,
+          "reason": "temporary monthly pay is INR 164880",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_77"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_104": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 35860,
+          "reason": "confirmed base salary is ZAR 35860",
+          "scope": "ongoing",
+          "source_message_id": "message_78"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_105": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_106": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_107": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_108": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 33440,
+          "reason": "confirmed base salary is ZAR 33440",
+          "scope": "ongoing",
+          "source_message_id": "message_82"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_11": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 38760000,
+          "reason": "gaji pokok yang dikonfirmasi adalah IDR 38760000",
+          "scope": "ongoing",
+          "source_message_id": "message_08"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_110": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_111": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_112": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_113": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_114": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 148200,
+          "reason": "next salary is reduced to INR 148200",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_87"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_115": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_117": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 1188,
+          "reason": "monthly salary has increased to EUR 1188",
+          "scope": "ongoing",
+          "source_message_id": "message_89"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_118": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_119": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_12": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "current seasonal contract has ended",
+          "scope": "ongoing",
+          "source_message_id": "message_09"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_120": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_122": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_123": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_125": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_126": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_127": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_128": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_129": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_130": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_131": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_132": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 1193.4,
+          "reason": "next salary reduced to USD 1193.40 due to unpaid leave",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_102"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_133": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "kontrak musiman saat ini telah berakhir",
+          "scope": "ongoing",
+          "source_message_id": "message_103"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_135": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 828,
+          "reason": "monthly salary increased to USD 828 from 2026-07-15",
+          "scope": "ongoing",
+          "source_message_id": "message_104"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_137": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "renewed lease increases monthly rent by 12%",
+          "scope": "ongoing",
+          "source_message_id": "message_105"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_138": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_14": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_140": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_141": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_142": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_143": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_144": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_145": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_147": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_148": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_15": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_150": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2026-01-01",
+          "kind": "income_change",
+          "new_amount": 893.75,
+          "reason": "next salary is reduced to EUR 893.75",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_115"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_151": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_152": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_153": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_154": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2024-11-25",
+          "kind": "income_change",
+          "new_amount": 1628,
+          "reason": "remaining confirmed monthly salary is EUR 1628",
+          "scope": "ongoing",
+          "source_message_id": "message_119"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_155": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_156": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_157": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_159": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_16": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "renewed lease increases monthly rent by 12%",
+          "scope": "ongoing",
+          "source_message_id": "message_12"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_160": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_161": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_162": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 29070000,
+          "reason": "Gaji bulanan Anda naik menjadi IDR 29070000",
+          "scope": "ongoing",
+          "source_message_id": "message_126"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_163": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_164": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 44270000,
+          "reason": "Gaji pokok yang dikonfirmasi adalah IDR 44270000",
+          "scope": "ongoing",
+          "source_message_id": "message_128"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_165": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_166": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_167": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_168": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 137150,
+          "reason": "next salary is reduced to INR 137150",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_132"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_169": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_170": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_171": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_172": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_173": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_175": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_176": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 847,
+          "reason": "confirmed base salary is EUR 847",
+          "scope": "ongoing",
+          "source_message_id": "message_139"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_177": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 1731.6,
+          "reason": "next salary is reduced to USD 1731.60",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_140"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_178": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_179": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_18": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_180": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_182": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_183": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_184": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_185": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "renewed lease increases monthly rent by 12%",
+          "scope": "ongoing",
+          "source_message_id": "message_147"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_186": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 31889,
+          "reason": "next salary is reduced to ZAR 31889",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_148"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_187": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_188": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_189": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 627,
+          "reason": "monthly salary has increased to EUR 627 from 2026-07-15",
+          "scope": "ongoing",
+          "source_message_id": "message_151"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_191": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_193": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 1750.32,
+          "reason": "temporary monthly pay is EUR 1750.32 for the next payroll",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_153"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_194": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_195": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 1222.65,
+          "reason": "next salary is reduced to EUR 1222.65",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_155"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_197": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_198": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_199": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "pembayaran berikutnya dari ShiftPay masih tertunda dan belum dapat ditarik",
+          "scope": "ongoing",
+          "source_message_id": "message_158"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_20": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_200": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_201": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "kontrak musiman saat ini telah berakhir",
+          "scope": "ongoing",
+          "source_message_id": "message_160"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_202": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_204": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_208": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_210": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_212": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_213": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "current seasonal contract has ended",
+          "scope": "ongoing",
+          "source_message_id": "message_166"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_214": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_215": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "payout is still pending",
+          "scope": "ongoing",
+          "source_message_id": "message_168"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_216": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 2424,
+          "reason": "monthly salary has increased to USD 2424//2026-07-15",
+          "scope": "ongoing",
+          "source_message_id": "message_169"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_219": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_22": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_220": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_221": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_222": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_224": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_225": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "menaikkan biaya sewa bulanan sebesar 12%//pembayaran sewa berikutnya",
+          "scope": "ongoing",
+          "source_message_id": "message_175"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_226": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_227": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_228": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_229": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_23": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_230": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2025-08-05",
+          "kind": "income_change",
+          "new_amount": 2827,
+          "reason": "confirmed monthly salary is EUR 2827",
+          "scope": "ongoing",
+          "source_message_id": "message_180"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_232": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_233": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2025-11-15",
+          "kind": "income_change",
+          "new_amount": 16910000,
+          "reason": "Gaji pertama Anda sebesar IDR 16910000 dijadwalkan pada 2025-11-15",
+          "scope": "ongoing",
+          "source_message_id": "message_182"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_234": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_235": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_236": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_237": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2026-03-26",
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "Kontrak musiman saat ini telah berakhir",
+          "scope": "ongoing",
+          "source_message_id": "message_186"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_238": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": "2024-11-26",
+          "kind": "income_change",
+          "new_amount": 912,
+          "reason": "The remaining confirmed monthly salary is USD 912",
+          "scope": "ongoing",
+          "source_message_id": "message_187"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_24": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_240": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_241": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2024-02-29",
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "Kontrak musiman saat ini telah berakhir",
+          "scope": "ongoing",
+          "source_message_id": "message_189"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_242": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2025-08-15",
+          "kind": "income_change",
+          "new_amount": 968,
+          "reason": "Your first salary of EUR 968 is scheduled for 2025-08-15",
+          "scope": "ongoing",
+          "source_message_id": "message_190"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_245": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_246": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": "2026-03-24",
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "Your employment has ended.",
+          "scope": "ongoing",
+          "source_message_id": "message_192"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_247": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": "2024-08-30",
+          "kind": "income_change",
+          "new_amount": 1528.56,
+          "reason": "The reduced amount continues for the next payroll.",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_193"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_248": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_249": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": "2025-12-27",
+          "kind": "income_change",
+          "new_amount": 702,
+          "reason": "Your next salary is reduced to USD 702.",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_195"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_250": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_252": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_253": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_254": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_256": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_259": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_26": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_261": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_262": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2024-11-23",
+          "kind": "income_change",
+          "new_amount": 48260000,
+          "reason": "Sisa gaji bulanan yang dikonfirmasi adalah IDR 48260000",
+          "scope": "ongoing",
+          "source_message_id": "message_203"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_263": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_264": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_265": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": "2024-02-28",
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "The current seasonal contract has ended.",
+          "scope": "ongoing",
+          "source_message_id": "message_206"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_266": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_267": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_268": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_269": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": "2025-11-15",
+          "kind": "income_change",
+          "new_amount": 38280,
+          "reason": "Your first salary of ZAR 38280 is scheduled for 2025-11-15.",
+          "scope": "ongoing",
+          "source_message_id": "message_210"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_27": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": "2026-06-27",
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "payout is still pending and earnings can change until payout is closed",
+          "scope": "ongoing",
+          "source_message_id": "message_19"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_271": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_272": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_273": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_274": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_275": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_28": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_29": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": "2025-10-27",
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "current seasonal contract has ended",
+          "scope": "ongoing",
+          "source_message_id": "message_21"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_32": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_33": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_34": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_35": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_36": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 2988,
+          "reason": "monthly salary has increased to USD 2988 starting 2026-07-15",
+          "scope": "ongoing",
+          "source_message_id": "message_26"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_37": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_38": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_40": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_42": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 148000,
+          "reason": "confirmed monthly salary is INR 148000",
+          "scope": "ongoing",
+          "source_message_id": "message_30"
+        }
+      ],
+      "injection_attempts": [
+        {
+          "note": "Instructs to remove ended income from future estimates",
+          "source_message_id": "message_30"
+        }
+      ]
+    },
+    "user_43": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_44": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_45": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 17290000,
+          "reason": "gaji bulanan naik menjadi IDR 17290000 berlaku mulai 2026-07-15",
+          "scope": "ongoing",
+          "source_message_id": "message_33"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_47": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_48": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_49": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_50": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 126000,
+          "reason": "confirmed monthly salary is INR 126000",
+          "scope": "ongoing",
+          "source_message_id": "message_37"
+        }
+      ],
+      "injection_attempts": [
+        {
+          "note": "Instructs to remove ended income from future estimates",
+          "source_message_id": "message_37"
+        }
+      ]
+    },
+    "user_52": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_53": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_54": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": "2026-07-15",
+          "kind": "income_change",
+          "new_amount": 42460,
+          "reason": "monthly salary increased to ZAR 42460 applies from 2026-07-15",
+          "scope": "ongoing",
+          "source_message_id": "message_40"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_57": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_58": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "IDR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 25840000,
+          "reason": "remaining confirmed monthly salary is IDR 25840000",
+          "scope": "ongoing",
+          "source_message_id": "message_42"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_59": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_60": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 530.4,
+          "reason": "next salary is reduced to USD 530.40 due to unpaid leave",
+          "scope": "next_occurrence_only",
+          "source_message_id": "message_44"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_61": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 0,
+          "reason": "seasonal contract has ended",
+          "scope": "ongoing",
+          "source_message_id": "message_45"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_62": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_64": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_65": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_66": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_68": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_69": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "EUR",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "renewed lease increases monthly rent by 12%",
+          "scope": "ongoing",
+          "source_message_id": "message_51"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_70": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_71": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_72": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_73": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "increases monthly rent by 12%",
+          "scope": "ongoing",
+          "source_message_id": "message_55"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_74": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_75": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_76": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 3072,
+          "reason": "confirmed base salary is USD 3072",
+          "scope": "ongoing",
+          "source_message_id": "message_58"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_77": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_80": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "INR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 158000,
+          "reason": "confirmed base salary is INR 158000",
+          "scope": "ongoing",
+          "source_message_id": "message_60"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_81": {
+      "amendments": [
+        {
+          "category": "rent",
+          "change_pct": 12,
+          "confidence": "high",
+          "currency": "USD",
+          "effective_date": null,
+          "kind": "expense_change",
+          "new_amount": null,
+          "reason": "increases monthly rent by 12%",
+          "scope": "ongoing",
+          "source_message_id": "message_61"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_82": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_83": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_84": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_85": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_87": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_88": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_90": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_91": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_92": {
+      "amendments": [
+        {
+          "category": "salary",
+          "change_pct": null,
+          "confidence": "high",
+          "currency": "ZAR",
+          "effective_date": null,
+          "kind": "income_change",
+          "new_amount": 49280,
+          "reason": "confirmed base salary is ZAR 49280",
+          "scope": "ongoing",
+          "source_message_id": "message_70"
+        }
+      ],
+      "injection_attempts": []
+    },
+    "user_93": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_94": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_95": {
+      "amendments": [],
+      "injection_attempts": []
+    },
+    "user_98": {
+      "amendments": [],
+      "injection_attempts": []
+    }
+  },
+  "amount_meta": {
+    "event_1442": {
+      "confidence": "high",
+      "currency": "INR",
+      "image_id": "image_02",
+      "label_read": "Balance Due"
+    },
+    "event_1545": {
+      "confidence": "high",
+      "currency": "INR",
+      "image_id": "image_03",
+      "label_read": "Cash Paid"
+    },
+    "event_1700": {
+      "confidence": "high",
+      "currency": "INR",
+      "image_id": "image_04",
+      "label_read": "Item Bill"
+    },
+    "event_1786": {
+      "confidence": "high",
+      "currency": "INR",
+      "image_id": "image_05",
+      "label_read": "Total"
+    },
+    "event_253": {
+      "confidence": "high",
+      "currency": "IDR",
+      "image_id": "image_01",
+      "label_read": "Net Pay"
+    },
+    "event_6033": {
+      "confidence": "high",
+      "currency": "INR",
+      "image_id": "image_10",
+      "label_read": "Total"
+    },
+    "event_6859": {
+      "confidence": "high",
+      "currency": "INR",
+      "image_id": "image_11",
+      "label_read": "Total Bill Amount"
+    }
+  },
+  "amounts": {
+    "event_1442": "100000",
+    "event_1545": "41272.0",
+    "event_1700": "2854.0",
+    "event_1786": "704.05",
+    "event_253": "4365000",
+    "event_6033": "79679.26",
+    "event_6859": "3650.0"
+  }
+}
